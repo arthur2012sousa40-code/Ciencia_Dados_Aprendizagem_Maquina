@@ -1,438 +1,208 @@
-# Atividade Prática — Detetives dos Dados
+Atividade Prática — Detetives dos Dados
 
-## Ciência de Dados e Aprendizagem de Máquina — Aula 01
+3. Escolha do problema
 
-**Tema:** Introdução à Ciência de Dados e Big Data
-**Metodologia:** Trabalho em equipe
-**Tempo:** 20 minutos
-**Entregável:** Mapa do Problema de Ciência de Dados
+Problema escolhido
 
----
-
-## 1. Identificação da equipe
-
-| Campo             | Resposta |
-| ----------------- | -------- |
-| **Turma:**        |    Sistema de Informação      |
-| **Data:**         |  19/08/2026        |
-| **Equipe:**       |   2   |
-| **Integrante 1:** |  arthur2012sousa40-code          |
-| **Integrante 2:** |   Isabella Ana Dutra de sousa         |
-| **Integrante 3:** |          |
-| **Integrante 4:** |          |
-| **Integrante 5:** |          |
+Muitas pessoas têm dificuldade para organizar suas finanças pessoais, controlar receitas e despesas e compreender para onde seu dinheiro está sendo destinado. O MVC Finance busca utilizar dados financeiros para gerar informações que auxiliem o usuário na organização e no planejamento de suas finanças.
 
 ---
 
-## 2. Objetivo da atividade
+4. Quem possui esse problema?
 
-Nesta atividade, sua equipe deverá analisar um **problema real** e pensar como uma equipe de Ciência de Dados poderia utilizar dados para compreender a situação e apoiar uma decisão.
+Quem possui ou enfrenta esse problema?
 
-O objetivo não é desenvolver um sistema ou modelo de Machine Learning neste momento.
+Pessoas que possuem dificuldade em controlar suas receitas, despesas e gastos do dia a dia, principalmente aquelas que não utilizam ferramentas para acompanhar sua vida financeira.
 
-O objetivo é aprender a **pensar como um cientista de dados**:
+Quem é afetado pelo problema?
 
-> **Problema → Dados → Informação → Análise → Decisão → Benefício**
-
----
-
-## 3. Escolha do problema
-
-Escolha uma área para investigar:
-
-* [ ] Comércio
-* [ ] Banco
-* [ ] Saúde
-* [ ] Transporte
-* [ ] Educação
-* [ ] Entretenimento
-* [ ] Indústria
-* [ ] Meio ambiente
-* [ ] Esportes
-* [ ] Outra: __________________________
-
-### Problema escolhido
-
-**Descreva, em poucas linhas, o problema que sua equipe pretende analisar.**
-
-> Escreva aqui:
->
-> ---
->
-> ---
->
-> ---
+Os próprios usuários, que podem ter dificuldades para identificar gastos desnecessários, organizar seu orçamento e planejar melhor suas finanças.
 
 ---
 
-## 4. Quem possui esse problema?
+5. Por que esse problema é importante?
 
-Identifique a organização, grupo ou público afetado pelo problema.
-
-**Quem possui ou enfrenta esse problema?**
-
-> ---
->
-> ---
-
-### Quem é afetado pelo problema?
-
-> ---
->
-> ---
+O problema é importante porque a falta de organização financeira pode dificultar o controle do dinheiro e o planejamento das despesas. A análise dos dados financeiros pode ajudar o usuário a compreender seus hábitos de consumo, identificar os principais gastos e tomar decisões mais conscientes.
 
 ---
 
-## 5. Por que esse problema é importante?
+6. Qual decisão precisa ser tomada?
 
-Explique por que vale a pena investigar esse problema utilizando dados.
-
-**Qual é o impacto do problema?**
-
-> ---
->
-> ---
->
-> ---
+A decisão é identificar quais gastos podem ser reduzidos ou melhor administrados e como o usuário pode organizar melhor suas receitas e despesas para melhorar sua situação financeira.
 
 ---
 
-## 6. Qual decisão precisa ser tomada?
+7. Identificação dos dados
 
-Imagine que sua equipe foi contratada para ajudar uma organização.
-
-**Qual decisão a organização precisa tomar?**
-
-> ---
->
-> ---
->
-> ---
+Nº| Dado necessário| Por que esse dado é importante?
+1| Valor das receitas| Permite saber quanto dinheiro o usuário recebe.
+2| Valor das despesas| Permite identificar quanto dinheiro é gasto.
+3| Categoria da despesa| Permite descobrir em quais áreas o dinheiro está sendo utilizado.
+4| Data das receitas e despesas| Permite analisar os gastos ao longo do tempo.
+5| Forma de pagamento| Permite identificar como as despesas são realizadas.
 
 ---
 
-# 7. Identificação dos dados
+8. Que informações queremos descobrir?
 
-Agora pense:
+Pergunta 1
 
-> **Quais dados seriam necessários para compreender esse problema?**
+Quais categorias representam os maiores gastos do usuário?
 
-Liste pelo menos **5 dados**.
+Pergunta 2
 
-| Nº | Dado necessário | Por que esse dado é importante? |
-| -: | --------------- | ------------------------------- |
-|  1 |                 |                                 |
-|  2 |                 |                                 |
-|  3 |                 |                                 |
-|  4 |                 |                                 |
-|  5 |                 |                                 |
+O usuário está gastando mais do que recebe?
 
-### Exemplos
+Pergunta 3
 
-Podem ser considerados dados como:
+Em quais períodos os gastos são maiores?
 
-* idade;
-* localização;
-* frequência;
-* notas;
-* compras;
-* valores;
-* horários;
-* avaliações;
-* histórico de utilização;
-* registros de atendimento;
-* imagens;
-* textos;
-* localização geográfica.
+Pergunta 4
+
+Quais hábitos de consumo podem estar comprometendo a organização financeira?
 
 ---
 
-# 8. Que informações queremos descobrir?
+9. Quais padrões podemos procurar?
 
-Os dados, quando analisados, podem gerar informações úteis.
+Marcar:
 
-**O que sua equipe gostaria de descobrir a partir dos dados?**
+- [x] Tendências
+- [x] Comparações
+- [x] Grupos semelhantes
+- [x] Comportamentos recorrentes
+- [x] Valores fora do padrão
+- [x] Relações entre variáveis
+- [x] Mudanças ao longo do tempo
 
-### Pergunta 1
+Explique um padrão que vocês gostariam de encontrar
 
-> ---
-
-### Pergunta 2
-
-> ---
-
-### Pergunta 3
-
-> ---
-
-### Pergunta 4
-
-> ---
+Gostaríamos de identificar padrões de gastos, como categorias que apresentam despesas recorrentes ou períodos em que o usuário costuma gastar mais. Também seria possível comparar receitas e despesas para verificar a evolução da situação financeira ao longo do tempo.
 
 ---
 
-# 9. Quais padrões podemos procurar?
+10. Qual análise poderia ser realizada?
 
-Pense como um cientista de dados.
+Marcar:
 
-Sua equipe poderia procurar:
+- [x] Análise descritiva
+- [x] Comparação entre grupos
+- [x] Análise temporal
+- [x] Visualização por gráficos
+- [x] Identificação de padrões
 
-* [ ] Tendências
-* [ ] Comparações
-* [ ] Grupos semelhantes
-* [ ] Comportamentos recorrentes
-* [ ] Valores fora do padrão
-* [ ] Relações entre variáveis
-* [ ] Mudanças ao longo do tempo
-* [ ] Outros: __________________________
+Explique
 
-### Explique um padrão que vocês gostariam de encontrar
-
-> ---
->
-> ---
->
-> ---
+Os dados poderiam ser analisados por meio de gráficos, relatórios e comparações entre receitas e despesas. A análise temporal permitiria observar a evolução financeira do usuário, enquanto a análise por categorias ajudaria a identificar onde estão concentrados os maiores gastos.
 
 ---
 
-# 10. Qual análise poderia ser realizada?
+11. Qual decisão poderia ser tomada?
 
-Como os dados poderiam ser analisados?
-
-Marque uma ou mais possibilidades:
-
-* [ ] Análise descritiva
-* [ ] Comparação entre grupos
-* [ ] Análise temporal
-* [ ] Visualização por gráficos
-* [ ] Identificação de padrões
-* [ ] Classificação
-* [ ] Previsão
-* [ ] Agrupamento
-* [ ] Outra: __________________________
-
-### Explique
-
-> ---
->
-> ---
+Com base nos resultados, o usuário poderia decidir reduzir gastos em determinadas categorias, reorganizar seu orçamento, estabelecer limites para despesas e planejar melhor suas receitas e gastos futuros.
 
 ---
 
-# 11. Qual decisão poderia ser tomada?
+12. Qual seria o benefício?
 
-Depois de analisar os dados, imagine que sua equipe encontrou informações importantes.
-
-**Que decisão poderia ser tomada com base nos resultados?**
-
-> ---
->
-> ---
->
-> ---
+O principal benefício seria proporcionar maior organização e compreensão da vida financeira do usuário, auxiliando na identificação de gastos desnecessários e na tomada de decisões financeiras mais conscientes.
 
 ---
 
-# 12. Qual seria o benefício?
+13. Os 5 Vs do Big Data
 
-Qual seria o possível benefício da decisão para a organização ou para as pessoas envolvidas?
+V| Pergunta| Resposta da equipe
+Volume| Existe uma grande quantidade de dados?| Sim. O sistema pode armazenar diversas receitas e despesas ao longo do tempo.
+Velocidade| Os dados são gerados ou processados rapidamente?| Sim. As informações podem ser registradas e analisadas conforme são inseridas pelo usuário.
+Variedade| Existem diferentes tipos ou formatos de dados?| Sim. Existem valores, datas, categorias, formas de pagamento e outros registros financeiros.
+Veracidade| Os dados podem apresentar erros ou problemas de qualidade?| Sim. Informações incorretas ou incompletas inseridas pelo usuário podem afetar os resultados.
+Valor| Os dados podem gerar algum benefício ou apoiar decisões?| Sim. Os dados podem gerar relatórios e informações úteis para melhorar a organização financeira.
 
-> ---
->
-> ---
->
-> ---
+Qual dos 5 Vs é mais relevante para o problema?
 
----
+Valor.
 
-# 13. Os 5 Vs do Big Data
+Justifique
 
-Analise o problema escolhido pela equipe.
-
-| V              | Pergunta                                                   | Resposta da equipe |
-| -------------- | ---------------------------------------------------------- | ------------------ |
-| **Volume**     | Existe uma grande quantidade de dados?                     |                    |
-| **Velocidade** | Os dados são gerados ou processados rapidamente?           |                    |
-| **Variedade**  | Existem diferentes tipos ou formatos de dados?             |                    |
-| **Veracidade** | Os dados podem apresentar erros ou problemas de qualidade? |                    |
-| **Valor**      | Os dados podem gerar algum benefício ou apoiar decisões?   |                    |
-
-### Qual dos 5 Vs é mais relevante para o problema?
-
-> ---
-
-### Justifique
-
-> ---
->
-> ---
+O valor é o mais relevante porque o objetivo do MVC Finance não é apenas armazenar dados financeiros, mas transformá-los em informações úteis para que o usuário compreenda sua situação financeira e possa tomar decisões melhores.
 
 ---
 
-# 14. Mapa do Problema de Ciência de Dados
+14. Mapa do Problema de Ciência de Dados
 
-Complete o fluxo abaixo:
+Problema:
 
-```text
-┌─────────────────────┐
-│       PROBLEMA      │
-│                     │
-│                     │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│        DADOS        │
-│                     │
-│                     │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│     INFORMAÇÕES     │
-│                     │
-│                     │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│       ANÁLISE       │
-│                     │
-│                     │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│       DECISÃO       │
-│                     │
-│                     │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│      BENEFÍCIO      │
-│                     │
-│                     │
-└─────────────────────┘
-```
+Dificuldade dos usuários em organizar suas finanças pessoais e compreender seus hábitos de receitas e despesas.
 
-### Resuma cada etapa
+Dados:
 
-**Problema:**
+Receitas, despesas, valores, categorias, datas e formas de pagamento.
 
->
+Informação:
 
-**Dados:**
+Identificação dos principais gastos, evolução das receitas e despesas e padrões de comportamento financeiro.
 
->
+Análise:
 
-**Informação:**
+Análise descritiva, comparação entre receitas e despesas, análise temporal e visualização por gráficos e relatórios.
 
->
+Decisão:
 
-**Análise:**
+Reduzir gastos desnecessários, reorganizar o orçamento e planejar melhor as finanças.
 
->
+Benefício:
 
-**Decisão:**
-
->
-
-**Benefício:**
-
->
+Maior organização financeira, melhor compreensão dos gastos e apoio para decisões financeiras mais conscientes.
 
 ---
 
-# 15. Preparação para apresentação
+15. Preparação para apresentação
 
-A equipe terá **2 minutos** para apresentar sua proposta.
+1. Nosso problema
 
-Organizem a apresentação seguindo esta estrutura:
+Nosso problema é a dificuldade que muitas pessoas possuem para organizar suas finanças e entender seus gastos.
 
-### 1. Nosso problema
+2. Precisamos destes dados
 
-> ---
+Precisamos de dados como receitas, despesas, valores, categorias, datas e formas de pagamento.
 
-### 2. Precisamos destes dados
+3. Queremos descobrir
 
-> ---
+Queremos descobrir onde o usuário está gastando mais, se suas despesas estão de acordo com suas receitas e quais padrões de gastos podem ser identificados.
 
-### 3. Queremos descobrir
+4. Pretendemos analisar
 
-> ---
+Pretendemos utilizar gráficos, relatórios, comparações e análises ao longo do tempo para transformar os dados em informações úteis.
 
-### 4. Pretendemos analisar
+5. A decisão poderia ser
 
-> ---
+A decisão poderia ser reduzir gastos desnecessários e reorganizar o orçamento de acordo com os resultados encontrados.
 
-### 5. A decisão poderia ser
+6. O benefício esperado é
 
-> ---
-
-### 6. O benefício esperado é
-
-> ---
+O benefício esperado é ajudar o usuário a ter maior controle sobre sua vida financeira e tomar decisões mais conscientes.
 
 ---
 
-# 16. Checklist da equipe
+16. Checklist da equipe
 
-Antes de entregar, confira:
-
-* [ ] Definimos um problema real.
-* [ ] Identificamos quem é afetado pelo problema.
-* [ ] Explicamos por que o problema é importante.
-* [ ] Identificamos pelo menos 5 dados necessários.
-* [ ] Definimos perguntas que queremos responder.
-* [ ] Identificamos possíveis padrões.
-* [ ] Indicamos como os dados poderiam ser analisados.
-* [ ] Definimos uma possível decisão.
-* [ ] Identificamos o benefício esperado.
-* [ ] Analisamos os 5 Vs do Big Data.
-* [ ] Preenchemos o Mapa do Problema.
-* [ ] Estamos preparados para apresentar em 2 minutos.
+- [x] Definimos um problema real.
+- [x] Identificamos quem é afetado pelo problema.
+- [x] Explicamos por que o problema é importante.
+- [x] Identificamos pelo menos 5 dados necessários.
+- [x] Definimos perguntas que queremos responder.
+- [x] Identificamos possíveis padrões.
+- [x] Indicamos como os dados poderiam ser analisados.
+- [x] Definimos uma possível decisão.
+- [x] Identificamos o benefício esperado.
+- [x] Analisamos os 5 Vs do Big Data.
+- [x] Preenchemos o Mapa do Problema.
+- [x] Estamos preparados para apresentar em 2 minutos.
 
 ---
 
-# 17. Reflexão final
+17. Reflexão final
 
-Responda individualmente ou em equipe:
+Ter muitos dados significa necessariamente tomar boas decisões? Por quê?
 
-> **Ter muitos dados significa necessariamente tomar boas decisões? Por quê?**
-
-**Resposta:**
-
-> ---
->
-> ---
->
-> ---
->
-> ---
-
----
-
-## Entrega
-
-### Produto final
-
-A equipe deverá entregar:
-
-**Mapa do Problema de Ciência de Dados**
-
-contendo:
-
-```text
-Problema
-   ↓
-Dados necessários
-   ↓
-Informações desejadas
-   ↓
-Análise
-   ↓
-Decisão
-   ↓
-Benefício esperado
-```
-
-**Formato sugerido:** Markdown, PDF ou documento disponibilizado pelo professor.
-
-**Apresentação:** 2 minutos por equipe.
+Não. Ter muitos dados não significa necessariamente tomar boas decisões. É necessário organizar, analisar e interpretar esses dados corretamente para transformá-los em informações úteis. No caso do MVC Finance, apenas registrar receitas e despesas não é suficiente; é necessário analisar essas informações para identificar padrões e auxiliar o usuário na tomada de decisões financeiras.
