@@ -1,5 +1,8 @@
 Atividade Prática — Detetives dos Dados
 
+Ciência de Dados e Aprendizagem de Máquina - Aula 01
+
+Tema: Introdução à ciencia
 3. Escolha do problema
 
 Problema escolhido
