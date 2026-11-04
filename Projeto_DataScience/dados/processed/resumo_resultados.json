@@ -1,0 +1,98 @@
+{
+  "ocorrencias_brutas": 655,
+  "ocorrencias_limpas": 639,
+  "qualidade": {
+    "V1 – sem hora": 51,
+    "V2 – sem local": 32,
+    "V3 – ilegível": 23,
+    "V4 – data fora do período (nov./2024–out./2026)": 4,
+    "V5 – resposta antes do registro ou \"sim\" sem data": 21,
+    "V6 – possível identificador no resumo (apto/placa)": 4,
+    "V7 – registro duplicado (mesma data, hora, local e resumo)": 16
+  },
+  "concordancia": 0.8611,
+  "kappa": 0.8406,
+  "top3_perc": 50.23,
+  "taxa_resposta": 0.3005,
+  "mediana_dias": 4.0,
+  "h3_barulho_noite_fds": 0.8504,
+  "recorrencia": 0.5008,
+  "completude": 0.8419,
+  "por_quem_registrou": {
+    "ocorrencias": {
+      "Morador": 210,
+      "Portaria": 353,
+      "Síndico": 22,
+      "Zeladoria": 54
+    },
+    "taxa_resposta": {
+      "Morador": 0.2571,
+      "Portaria": 0.2861,
+      "Síndico": 0.3636,
+      "Zeladoria": 0.537
+    },
+    "mediana_dias": {
+      "Morador": 5.0,
+      "Portaria": 4.0,
+      "Síndico": 9.0,
+      "Zeladoria": 3.0
+    }
+  },
+  "regressao_mensal": {
+    "inclinacao_pp": -0.2527,
+    "r2": 0.0419,
+    "dias_inclinacao": 0.019,
+    "dias_r2": 0.0037
+  },
+  "metricas": {
+    "Referência (aleatória)": {
+      "recall": 0.729,
+      "precisao": 0.7358,
+      "f1": 0.7324,
+      "auc": 0.5534,
+      "alertas": 106
+    },
+    "Regressão logística": {
+      "recall": 0.7196,
+      "precisao": 0.828,
+      "f1": 0.77,
+      "auc": 0.7938,
+      "alertas": 93
+    },
+    "Árvore de decisão": {
+      "recall": 0.8318,
+      "precisao": 0.7946,
+      "f1": 0.8128,
+      "auc": 0.766,
+      "alertas": 112
+    },
+    "Random Forest": {
+      "recall": 0.7477,
+      "precisao": 0.8081,
+      "f1": 0.7767,
+      "auc": 0.7907,
+      "alertas": 99
+    }
+  },
+  "melhor_modelo": "Regressão logística",
+  "iteracao": {
+    "modelo completo": {
+      "recall": 0.7196,
+      "precisao": 0.828,
+      "f1": 0.77,
+      "auc": 0.7938
+    },
+    "só a categoria": {
+      "recall": 0.7383,
+      "precisao": 0.8144,
+      "f1": 0.7745,
+      "auc": 0.783
+    }
+  },
+  "categorias_atencao": [
+    "Barulho",
+    "Animais",
+    "Lixo e limpeza"
+  ],
+  "prazo_proposto_dias": 4
+}

@@ -1,0 +1,346 @@
+{
+  "python": "3.13.18",
+  "sklearn": "1.9.1",
+  "pandas": "3.0.5",
+  "numpy": "2.5.3",
+  "matplotlib": "3.11.2",
+  "semente": 42,
+  "fonte_csv": "../dados/livro_ocorrencias_transcrito.csv",
+  "registros_brutos": 655,
+  "registros_usados": 631,
+  "removidos": {
+    "duplicatas": 16,
+    "identificador_no_resumo": 4,
+    "data_fora": 4
+  },
+  "taxa_sem_resposta": 0.7004754358161648,
+  "hora_ausente": 50,
+  "local_nao_informado": 30,
+  "tamanhos": {
+    "treino": 473,
+    "teste": 158
+  },
+  "taxa_por_categoria_treino": {
+    "Barulho": {
+      "taxa_sem_resposta": 0.9604,
+      "n": 101
+    },
+    "Animais": {
+      "taxa_sem_resposta": 0.8947,
+      "n": 38
+    },
+    "Não identificada": {
+      "taxa_sem_resposta": 0.8235,
+      "n": 17
+    },
+    "Lixo e limpeza": {
+      "taxa_sem_resposta": 0.7879,
+      "n": 33
+    },
+    "Garagem e vagas": {
+      "taxa_sem_resposta": 0.7302,
+      "n": 63
+    },
+    "Convivência e regras": {
+      "taxa_sem_resposta": 0.6842,
+      "n": 38
+    },
+    "Encomendas e portaria": {
+      "taxa_sem_resposta": 0.5909,
+      "n": 22
+    },
+    "Segurança e acesso": {
+      "taxa_sem_resposta": 0.5862,
+      "n": 29
+    },
+    "Vazamento e infiltração": {
+      "taxa_sem_resposta": 0.5079,
+      "n": 63
+    },
+    "Manutenção": {
+      "taxa_sem_resposta": 0.3768,
+      "n": 69
+    }
+  },
+  "taxa_por_quem_treino": {
+    "Morador": {
+      "taxa_sem_resposta": 0.7669,
+      "n": 163
+    },
+    "Portaria": {
+      "taxa_sem_resposta": 0.7031,
+      "n": 256
+    },
+    "Síndico": {
+      "taxa_sem_resposta": 0.6875,
+      "n": 16
+    },
+    "Zeladoria": {
+      "taxa_sem_resposta": 0.3947,
+      "n": 38
+    }
+  },
+  "grade": [
+    {
+      "profundidade": "2",
+      "folha": 5,
+      "treino_cv": 0.7352,
+      "validacao_cv": 0.6998,
+      "desvio": 0.0087,
+      "sensibilidade_cv": 0.9156,
+      "acc_balanceada_cv": 0.5563
+    },
+    {
+      "profundidade": "2",
+      "folha": 10,
+      "treino_cv": 0.7352,
+      "validacao_cv": 0.6998,
+      "desvio": 0.0087,
+      "sensibilidade_cv": 0.9156,
+      "acc_balanceada_cv": 0.5563
+    },
+    {
+      "profundidade": "2",
+      "folha": 20,
+      "treino_cv": 0.7352,
+      "validacao_cv": 0.6998,
+      "desvio": 0.0087,
+      "sensibilidade_cv": 0.9156,
+      "acc_balanceada_cv": 0.5563
+    },
+    {
+      "profundidade": "3",
+      "folha": 5,
+      "treino_cv": 0.7484,
+      "validacao_cv": 0.7167,
+      "desvio": 0.055,
+      "sensibilidade_cv": 0.9155,
+      "acc_balanceada_cv": 0.5836
+    },
+    {
+      "profundidade": "3",
+      "folha": 10,
+      "treino_cv": 0.7463,
+      "validacao_cv": 0.7167,
+      "desvio": 0.055,
+      "sensibilidade_cv": 0.9155,
+      "acc_balanceada_cv": 0.5836
+    },
+    {
+      "profundidade": "3",
+      "folha": 20,
+      "treino_cv": 0.7431,
+      "validacao_cv": 0.7315,
+      "desvio": 0.0392,
+      "sensibilidade_cv": 0.9035,
+      "acc_balanceada_cv": 0.6169
+    },
+    {
+      "profundidade": "4",
+      "folha": 5,
+      "treino_cv": 0.7579,
+      "validacao_cv": 0.7145,
+      "desvio": 0.0474,
+      "sensibilidade_cv": 0.8401,
+      "acc_balanceada_cv": 0.6303
+    },
+    {
+      "profundidade": "4",
+      "folha": 10,
+      "treino_cv": 0.7558,
+      "validacao_cv": 0.7124,
+      "desvio": 0.0491,
+      "sensibilidade_cv": 0.8492,
+      "acc_balanceada_cv": 0.6208
+    },
+    {
+      "profundidade": "4",
+      "folha": 20,
+      "treino_cv": 0.7495,
+      "validacao_cv": 0.7188,
+      "desvio": 0.0279,
+      "sensibilidade_cv": 0.8582,
+      "acc_balanceada_cv": 0.6264
+    },
+    {
+      "profundidade": "5",
+      "folha": 5,
+      "treino_cv": 0.7748,
+      "validacao_cv": 0.7083,
+      "desvio": 0.0309,
+      "sensibilidade_cv": 0.8399,
+      "acc_balanceada_cv": 0.6203
+    },
+    {
+      "profundidade": "5",
+      "folha": 10,
+      "treino_cv": 0.7637,
+      "validacao_cv": 0.7019,
+      "desvio": 0.0432,
+      "sensibilidade_cv": 0.846,
+      "acc_balanceada_cv": 0.6049
+    },
+    {
+      "profundidade": "5",
+      "folha": 20,
+      "treino_cv": 0.7516,
+      "validacao_cv": 0.7188,
+      "desvio": 0.0157,
+      "sensibilidade_cv": 0.8339,
+      "acc_balanceada_cv": 0.6418
+    },
+    {
+      "profundidade": "None",
+      "folha": 5,
+      "treino_cv": 0.8055,
+      "validacao_cv": 0.6723,
+      "desvio": 0.035,
+      "sensibilidade_cv": 0.7705,
+      "acc_balanceada_cv": 0.6067
+    },
+    {
+      "profundidade": "None",
+      "folha": 10,
+      "treino_cv": 0.7748,
+      "validacao_cv": 0.6913,
+      "desvio": 0.051,
+      "sensibilidade_cv": 0.8038,
+      "acc_balanceada_cv": 0.6157
+    },
+    {
+      "profundidade": "None",
+      "folha": 20,
+      "treino_cv": 0.7532,
+      "validacao_cv": 0.7231,
+      "desvio": 0.019,
+      "sensibilidade_cv": 0.8279,
+      "acc_balanceada_cv": 0.6531
+    }
+  ],
+  "referencia_cv": {
+    "treino_cv": 0.6997891974145272,
+    "validacao_cv": 0.6997984322508397,
+    "desvio": 0.0042884313173218724,
+    "sensibilidade_cv": 1.0,
+    "acc_balanceada_cv": 0.5
+  },
+  "so_categoria_cv": {
+    "treino_cv": 0.7357303402158284,
+    "validacao_cv": 0.7336394176931691,
+    "desvio": 0.03227925835145157,
+    "sensibilidade_cv": 0.9003165988240616,
+    "acc_balanceada_cv": 0.6220794816780406
+  },
+  "regra_categoria_cv": {
+    "validacao_cv": 0.7208734602463606,
+    "desvio": 0.0180403934872063,
+    "sensibilidade_cv": 0.8700135685210313,
+    "acc_balanceada_cv": 0.6212136808122397
+  },
+  "escolhida": {
+    "max_depth": 3,
+    "min_samples_leaf": 20,
+    "validacao": 0.7315341545352744,
+    "desvio": 0.03916284817680912,
+    "treino_cv": 0.7431377476232358
+  },
+  "teste": [
+    {
+      "modelo": "referência (sempre sem resposta)",
+      "acuracia": 0.7025,
+      "sensibilidade": 1.0,
+      "precisao": 0.7025,
+      "especificidade": 0.0,
+      "acc_balanceada": 0.5,
+      "f1": 0.8253,
+      "destacadas": 158,
+      "TN": 0,
+      "FP": 47,
+      "FN": 0,
+      "TP": 111
+    },
+    {
+      "modelo": "regra: taxa da categoria > 50%",
+      "acuracia": 0.7405,
+      "sensibilidade": 0.9189,
+      "precisao": 0.7612,
+      "especificidade": 0.3191,
+      "acc_balanceada": 0.619,
+      "f1": 0.8327,
+      "destacadas": 134,
+      "TN": 15,
+      "FP": 32,
+      "FN": 9,
+      "TP": 102
+    },
+    {
+      "modelo": "árvore escolhida",
+      "acuracia": 0.7532,
+      "sensibilidade": 0.8919,
+      "precisao": 0.7857,
+      "especificidade": 0.4255,
+      "acc_balanceada": 0.6587,
+      "f1": 0.8354,
+      "destacadas": 126,
+      "TN": 20,
+      "FP": 27,
+      "FN": 12,
+      "TP": 99
+    }
+  ],
+  "acuracia_treino_completo": 0.7526427061310782,
+  "matriz_confusao": [
+    [
+      20,
+      27
+    ],
+    [
+      12,
+      99
+    ]
+  ],
+  "profundidade_real": 3,
+  "folhas": 6,
+  "importancias": {
+    "categoria_Barulho": 0.4892,
+    "categoria_Manutenção": 0.3023,
+    "registrado_por_Zeladoria": 0.1823,
+    "fim_de_semana": 0.016,
+    "hora_num": 0.0102
+  },
+  "temporal": {
+    "treino": 482,
+    "teste": 149,
+    "acuracia": 0.697986577181208,
+    "acuracia_referencia": 0.697986577181208,
+    "sensibilidade": 0.8846153846153846,
+    "precisao": 0.736,
+    "f1": 0.8034934497816594,
+    "acc_balanceada": 0.5756410256410256
+  },
+  "regressao": {
+    "n_respondidas": 170,
+    "treino": 127,
+    "teste": 43,
+    "mae": 3.763162715588102,
+    "mae_referencia": 3.19520234389306,
+    "r2": -0.9741364767898895,
+    "mae_cv_linear": 4.6547049971814065,
+    "mae_cv_referencia": 3.5687479951615066,
+    "mae_mediana_categoria": 2.63953488372093,
+    "dias_descricao": {
+      "count": 170.0,
+      "mean": 5.64,
+      "std": 5.29,
+      "min": 1.0,
+      "25%": 2.0,
+      "50%": 4.0,
+      "75%": 7.0,
+      "max": 40.0
+    },
+    "residuos": {
+      "media": -0.4070775484738698,
+      "desvio": 5.0452715470234315
+    }
+  }
+}

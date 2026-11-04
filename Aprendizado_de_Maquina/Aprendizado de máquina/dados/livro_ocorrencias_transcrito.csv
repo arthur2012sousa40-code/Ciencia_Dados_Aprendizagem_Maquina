@@ -1,0 +1,656 @@
+id_registro,data,hora,registrado_por,local,categoria_livro,resumo,houve_resposta,data_resposta,desfecho,categoria_ramon,categoria_arthur,categoria_consenso
+1,2024-11-01,06:50,Morador,Área de lazer,fumando no hall,Obra fora do horário permitido,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+2,2024-11-03,03:21,Morador,,barulho,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+3,2024-11-03,13:58,Portaria,Salão de festas,fumando no hall,Pessoa fumando no hall,sim,2024-11-13,Advertência conforme o regimento,Convivência e regras,Convivência e regras,Convivência e regras
+4,2024-11-03,17:13,Portaria,Garagem,carro na vaga,Veículo bloqueando a saída,não,,,Garagem e vagas,Segurança e acesso,Garagem e vagas
+5,2024-11-05,11:28,Morador,Lixeira,limpeza,Lixeira transbordando,sim,2024-10-15,Zeladoria limpou e afixou aviso,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+6,2024-11-05,13:47,Morador,Salão de festas,convivência,Bicicleta no corredor,sim,2024-11-16,Advertência conforme o regimento,Convivência e regras,Convivência e regras,Convivência e regras
+7,2024-11-06,15:14,Portaria,Elevador,Manutencao,Elevador parado,sim,,Técnico acionado e reparo feito,Manutenção,Vazamento e infiltração,Manutenção
+8,2024-11-08,11:27,Portaria,Área de lazer,cão sem coleira,Latidos constantes,sim,2024-11-12,Tutor orientado sobre o regimento,Animais,Animais,Animais
+9,2024-11-09,17:07,Portaria,Portaria,elevador parado,Lâmpada queimada na escada,sim,2024-11-10,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+10,2024-11-10,13:27,Portaria,Portaria,portaria,Encomenda entregue na unidade errada,sim,,Encomenda localizada e entregue,Encomendas e portaria,Encomendas e portaria,Encomendas e portaria
+11,2024-11-12,11:38,Morador,Salão de festas,,[ilegível],não,,,Não identificada,Não identificada,Não identificada
+12,2024-11-15,22:26,Portaria,Salão de festas,som alto,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+13,2024-11-16,11:57,Portaria,Garagem,segurança,Portão encontrado aberto,sim,2024-11-17,Portaria orientada,Segurança e acesso,Segurança e acesso,Segurança e acesso
+14,2024-11-17,,Morador,Unidade (4º andar),Barulho,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+15,2024-11-18,08:27,Morador,Unidade (2º andar),BARULHO,Música alta em unidade do 2º andar,não,,,Barulho,Barulho,Barulho
+16,2024-11-18,16:17,Morador,Unidade (4º andar),Vazamento,Infiltração no teto do banheiro de unidade do 4º andar,sim,2024-11-20,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+17,2024-11-19,11:34,Morador,Garagem,Garagem,Carro estacionado em vaga de outro morador,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+18,2024-11-19,12:55,Portaria,Unidade (2º andar),goteira,Goteira na escada,sim,2024-11-25,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+19,2024-11-19,13:56,Portaria,Escadas,infiltração,Mancha de umidade na parede,sim,2024-11-29,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+20,2024-11-19,18:19,Portaria,Garagem,Garagem,Carro de visitante na garagem,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+21,2024-11-22,12:50,Portaria,Garagem,portão aberto,Pessoa estranha no prédio,não,,,Segurança e acesso,Segurança e acesso,Segurança e acesso
+22,2024-11-23,12:49,Portaria,Escadas,infiltração,Mancha de umidade na parede novamente,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+23,2024-11-24,12:39,Portaria,Pilotis,manutenção,Elevador parado,não,,,Manutenção,Manutenção,Manutenção
+24,2024-11-25,,Morador,Portão,lâmpada queimada,Lâmpada queimada na escada,não,,,Manutenção,Manutenção,Manutenção
+25,2024-11-26,08:28,Morador,Garagem,carro na vaga,Carro estacionado em vaga de outro morador,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+26,2024-11-28,14:42,Portaria,Unidade (4º andar),barulho,Som alto vindo de unidade do 4º andar,não,,,Barulho,Barulho,Barulho
+27,2024-11-28,14:42,Morador,Unidade (4º andar),barulho,Som alto vindo de unidade do 4º andar,não,,,Barulho,Barulho,Barulho
+28,2024-12-01,03:55,Morador,Unidade (4º andar),BARULHO,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+29,2024-12-01,15:56,Zeladoria,Garagem,vaga,Moto ocupando duas vagas,sim,2024-10-15,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+30,2024-12-02,11:29,Zeladoria,Escadas,Lixo,Entulho nos pilotis,sim,2024-12-10,Zeladoria limpou e afixou aviso,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+31,2024-12-02,12:59,Morador,Garagem,Seguranca,Câmera da garagem desligada,não,,,Segurança e acesso,Segurança e acesso,Segurança e acesso
+32,2024-12-02,13:57,Morador,,interfone,Elevador parado,sim,2024-12-08,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+33,2024-12-02,14:44,Portaria,Elevador,elevador parado,Lâmpada queimada na escada,sim,2024-12-13,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+34,2024-12-02,19:47,Morador,Elevador,animal,Fezes de animal no elevador,não,,,Animais,Animais,Animais
+35,2024-12-03,10:43,Portaria,Escadas,interfone,Interfone sem funcionar,sim,2024-12-09,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+36,2024-12-04,15:55,Portaria,Portaria,Seguranca,Pessoa estranha no prédio,não,,,Segurança e acesso,Segurança e acesso,Segurança e acesso
+37,2024-12-05,13:33,Portaria,Portaria,segurança,Câmera da garagem desligada,sim,2024-12-08,Portaria orientada,Segurança e acesso,Segurança e acesso,Segurança e acesso
+38,2024-12-06,10:25,Portaria,Escadas,vazamento,Mancha de umidade na parede,sim,2024-12-13,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+39,2024-12-07,13:58,Portaria,,Vazamento,Vazamento na garagem,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+40,2024-12-09,12:54,Portaria,Garagem,garagem,Moto ocupando duas vagas,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+41,2024-12-09,13:51,Morador,Portaria,encomenda,Demora no interfone,sim,2024-12-11,Encomenda localizada e entregue,Encomendas e portaria,Segurança e acesso,Encomendas e portaria
+42,2024-12-12,17:16,Zeladoria,Garagem,garagem,Carro estacionado em vaga de outro morador,sim,2024-12-14,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+43,2024-12-12,,Morador,Área de lazer,fumando no hall,Bicicleta no corredor,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+44,2024-12-13,14:38,Zeladoria,Elevador,lâmpada queimada,Lâmpada queimada na escada,sim,2024-12-14,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+45,2024-12-13,14:58,Morador,Portão,lâmpada queimada,Lâmpada queimada na escada,sim,,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+46,2024-12-14,00:58,Portaria,Unidade (3º andar),som alto,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+47,2024-12-15,11:35,Portaria,Unidade (3º andar),goteira,Goteira na escada,sim,2024-12-24,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+48,2024-12-16,09:33,Portaria,Área de lazer,Animais,Latidos constantes,não,,,Animais,Convivência e regras,Animais
+49,2024-12-17,,Portaria,Garagem,vaga,Carro de visitante na garagem,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+50,2024-12-17,21:50,Portaria,Elevador,Animais,Latidos constantes,não,,,Animais,Animais,Animais
+51,2024-12-18,02:26,Portaria,Unidade (1º andar),BARULHO,Música alta em unidade do 1º andar,não,,,Barulho,Barulho,Barulho
+52,2024-12-20,12:02,Portaria,Portaria,entrega extraviada,Demora no interfone,não,,,Encomendas e portaria,Encomendas e portaria,Encomendas e portaria
+53,2024-12-20,12:57,Morador,Elevador,lâmpada queimada,Luz dos pilotis apagada,sim,2024-12-24,Técnico acionado e reparo feito,Manutenção,Vazamento e infiltração,Manutenção
+54,2024-12-21,15:43,Morador,Elevador,interfone,Elevador parado novamente,não,,,Manutenção,Vazamento e infiltração,Manutenção
+55,2024-12-21,16:43,Portaria,Unidade (6º andar),som alto,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+56,2024-12-24,12:34,Morador,Unidade (3º andar),animal,Fezes de animal no elevador,não,,,Animais,Animais,Animais
+57,2024-12-24,12:55,Portaria,Lixeira,limpeza,Escada suja,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+58,2024-12-25,14:15,Portaria,Garagem,vazamento,Infiltração no teto do banheiro de unidade do 2º andar,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+59,2024-12-26,12:48,Morador,Elevador,interfone,Luz dos pilotis apagada,não,,,Manutenção,Manutenção,Manutenção
+60,2024-12-27,15:06,Portaria,Pilotis,Animais,Fezes de animal no elevador,não,,,Animais,Animais,Animais
+61,2024-12-27,,Síndico,Garagem,goteira,Infiltração no teto do banheiro de unidade do 5º andar,não,,,Vazamento e infiltração,Manutenção,Vazamento e infiltração
+62,2024-12-27,19:02,Portaria,Garagem,carro na vaga,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+63,2024-12-27,21:58,Morador,Salão de festas,obra fora de horário,Pessoa fumando no hall,não,,,Barulho,Convivência e regras,Convivência e regras
+64,2024-12-28,02:45,Zeladoria,Salão de festas,som alto,Som alto vindo de unidade do 4º andar,sim,2025-01-11,Morador advertido,Barulho,Barulho,Barulho
+65,2024-12-28,11:42,Portaria,Unidade (6º andar),regimento,Pessoa fumando no hall,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+66,2024-12-28,13:26,Portaria,Garagem,carro na vaga,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+67,2024-12-28,15:51,Portaria,Elevador,cão sem coleira,Latidos constantes,não,,,Animais,Convivência e regras,Animais
+68,2024-12-29,,Portaria,Portaria,portão aberto,Portão encontrado aberto,não,,,Segurança e acesso,Segurança e acesso,Segurança e acesso
+69,2024-12-30,11:20,Morador,,infiltracao,Vazamento na garagem,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+70,2025-01-01,13:03,Portaria,,lâmpada queimada,Lâmpada queimada na escada,sim,2025-01-06,Técnico acionado e reparo feito,Manutenção,Vazamento e infiltração,Manutenção
+71,2025-01-01,,Morador,Unidade (5º andar),Animais,Latidos constantes,não,,,Animais,Animais,Animais
+72,2025-01-03,11:03,Portaria,Portaria,elevador parado,Elevador parado,sim,,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+73,2025-01-07,09:17,Portaria,Lixeira,lixo,Lixo deixado fora da lixeira,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+74,2025-01-09,15:51,Morador,Escadas,goteira,Goteira na escada,sim,2025-01-15,Encanador vistoriou e corrigiu,Vazamento e infiltração,Manutenção,Vazamento e infiltração
+75,2025-01-10,12:41,Zeladoria,Elevador,lâmpada queimada,Lâmpada queimada na escada novamente,não,,,Manutenção,Manutenção,Manutenção
+76,2025-01-11,16:48,Portaria,Unidade (6º andar),vazamento,Infiltração no teto do banheiro de unidade do 6º andar,sim,,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+77,2025-01-12,21:14,Morador,Unidade (2º andar),música alta,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+78,2025-01-12,21:32,Portaria,Telhado e caixa d'água,goteira,Vazamento na garagem,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+79,2025-01-14,02:42,Portaria,Unidade (3º andar),Barulho,Música alta em unidade do 3º andar,não,,,Barulho,Barulho,Barulho
+80,2025-01-16,02:55,Morador,Unidade (2º andar),barulho,Som alto vindo de unidade do 2º andar,não,,,Barulho,Barulho,Barulho
+81,2025-01-16,16:09,Zeladoria,Portaria,entrega extraviada,Entrega extraviada,não,,,Encomendas e portaria,Encomendas e portaria,Encomendas e portaria
+82,2025-01-19,08:11,Morador,,lâmpada queimada,Portão travando,sim,2025-01-27,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+83,2025-01-19,08:11,Portaria,,lâmpada queimada,Portão travando,sim,2025-01-27,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+84,2025-01-20,11:25,Portaria,Elevador,,[ilegível],não,,,Não identificada,Não identificada,Não identificada
+85,2025-01-20,,Portaria,Salão de festas,Barulho,Som alto vindo de unidade do 2º andar,não,,,Barulho,Barulho,Barulho
+86,2025-01-21,06:56,Portaria,Telhado e caixa d'água,Vazamento,Água escorrendo da caixa d'água,sim,2025-01-29,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+87,2025-01-21,19:22,Portaria,Área de lazer,Animais,Latidos constantes,não,,,Animais,Animais,Animais
+88,2025-01-22,21:56,Portaria,Garagem,Vazamento,Goteira na escada,não,,,Vazamento e infiltração,Manutenção,Vazamento e infiltração
+89,2025-01-25,11:16,Morador,Portaria,segurança,Pessoa estranha no prédio,não,,,Segurança e acesso,Garagem e vagas,Segurança e acesso
+90,2025-01-27,13:29,Síndico,Garagem,Garagem,Moto ocupando duas vagas,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+91,2025-01-30,00:17,Morador,Pilotis,música alta,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+92,2025-01-30,13:07,Portaria,Escadas,infiltração,Goteira na escada,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+93,2025-01-30,14:46,Portaria,Unidade (6º andar),infiltração,Infiltração no teto do banheiro de unidade do 6º andar,sim,2025-02-01,Encanador vistoriou e corrigiu,Manutenção,Vazamento e infiltração,Vazamento e infiltração
+94,2025-01-30,14:51,Portaria,Garagem,carro na vaga,Carro estacionado em vaga de outro morador,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+95,2025-01-30,,Portaria,Portaria,manutenção,Luz dos pilotis apagada,sim,2025-02-08,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+96,2025-01-30,22:24,Portaria,Unidade (5º andar),festa,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+97,2025-02-01,12:27,Portaria,Portaria,elevador parado,Elevador parado novamente,não,,,Manutenção,Manutenção,Manutenção
+98,2025-02-02,16:37,Portaria,Unidade (6º andar),vazamento,Infiltração no teto do banheiro de unidade do 6º andar novamente,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+99,2025-02-04,17:55,Morador,Portaria,interfone,Luz dos pilotis apagada,sim,2025-02-05,Técnico acionado e reparo feito,Vazamento e infiltração,Manutenção,Manutenção
+100,2025-02-05,00:24,Portaria,Salão de festas,BARULHO,Festa no salão após o horário,não,,,Convivência e regras,Barulho,Barulho
+101,2025-02-05,13:03,Morador,Garagem,vaga,Carro de visitante na garagem,sim,2024-10-15,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+102,2025-02-06,13:21,Portaria,Garagem,Vazamento,Goteira na escada novamente,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+103,2025-02-06,14:59,Portaria,Portão,lâmpada queimada,Elevador parado,sim,2025-02-12,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+104,2025-02-07,,Morador,Unidade (2º andar),vazamento,Infiltração no teto do banheiro de unidade do 2º andar,sim,2025-02-09,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+105,2025-02-07,16:53,Portaria,Portão,lâmpada queimada,Interfone sem funcionar,não,,,Manutenção,Manutenção,Manutenção
+106,2025-02-08,16:46,Portaria,Garagem,Garagem,Moto ocupando duas vagas,não,,,Garagem e vagas,Segurança e acesso,Garagem e vagas
+107,2025-02-08,20:45,Zeladoria,Garagem,garagem,Veículo bloqueando a saída,sim,2025-02-10,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+108,2025-02-09,18:57,Portaria,Portão,interfone,Luz dos pilotis apagada,sim,2025-02-14,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+109,2025-02-10,15:56,Portaria,Escadas,Manutencao,Luz dos pilotis apagada,sim,2025-02-12,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+110,2025-02-10,,Portaria,,,[ilegível],não,,,Não identificada,Não identificada,Não identificada
+111,2025-02-11,11:14,Portaria,,garagem,Carro de visitante na garagem,sim,,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+112,2025-02-12,07:35,Portaria,Unidade (6º andar),goteira,Infiltração no teto do banheiro de unidade do 6º andar,sim,2025-02-20,Encanador vistoriou e corrigiu,Manutenção,Vazamento e infiltração,Vazamento e infiltração
+113,2025-02-13,12:19,Morador,Portaria,encomenda,Encomenda entregue na unidade errada,não,,,Encomendas e portaria,Segurança e acesso,Encomendas e portaria
+114,2025-02-13,19:39,Morador,Salão de festas,,[ilegível],não,,,Não identificada,Não identificada,Não identificada
+115,2025-02-14,10:54,Portaria,Telhado e caixa d'água,Vazamento,Água escorrendo da caixa d'água novamente,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+116,2025-02-16,12:48,Portaria,Elevador,cachorro,Latidos constantes,não,,,Animais,Animais,Animais
+117,2025-02-16,17:03,Morador,Portaria,interfone,Luz dos pilotis apagada novamente,não,,,Manutenção,Manutenção,Manutenção
+118,2025-02-17,20:13,Morador,Pilotis,obra fora de horário,Obra fora do horário permitido,não,,,Convivência e regras,Barulho,Convivência e regras
+119,2025-02-19,19:33,Portaria,Lixeira,Lixo,Entulho nos pilotis,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+120,2025-02-22,14:37,Portaria,Pilotis,lixo,Lixo deixado fora da lixeira,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+121,2025-02-26,13:10,Portaria,Escadas,infiltração,Goteira na escada novamente,não,,,Vazamento e infiltração,Manutenção,Vazamento e infiltração
+122,2025-02-27,13:57,Portaria,Portaria,portaria,Demora no interfone,não,,,Encomendas e portaria,Encomendas e portaria,Encomendas e portaria
+123,2025-02-28,,Morador,,som alto,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+124,2025-03-03,09:23,Morador,Garagem,Garagem,Carro estacionado em vaga de outro morador,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+125,2025-03-04,10:10,Portaria,Elevador,Manutencao,Portão travando,sim,2025-03-07,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+126,2025-03-05,03:53,Portaria,Salão de festas,,[ilegível],não,,,Não identificada,Não identificada,Não identificada
+127,2025-03-10,09:41,Portaria,Unidade (1º andar),vazamento,Mancha de umidade na parede,sim,2025-03-12,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+128,2025-03-12,08:47,Síndico,Unidade (5º andar),festa,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+129,2025-03-12,09:54,Portaria,Portaria,portaria,Entrega extraviada,não,,,Encomendas e portaria,Encomendas e portaria,Encomendas e portaria
+130,2025-03-12,23:21,Zeladoria,Unidade (2º andar),BARULHO,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+131,2025-03-14,06:06,Portaria,,vazamento,Mancha de umidade na parede novamente,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+132,2025-03-14,12:23,Portaria,Garagem,Garagem,Carro de visitante na garagem,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+133,2025-03-14,12:35,Morador,Unidade (2º andar),vazamento,Infiltração no teto do banheiro de unidade do 2º andar,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+134,2025-03-14,16:33,Portaria,Garagem,vaga,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+135,2025-03-14,16:33,Morador,Garagem,vaga,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+136,2025-03-15,00:14,Portaria,Unidade (1º andar),,[ilegível],não,,,Não identificada,Não identificada,Não identificada
+137,2025-03-15,15:51,Portaria,Escadas,Vazamento,Vazamento na garagem,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+138,2025-03-17,15:07,Zeladoria,Portão,manutenção,Lâmpada queimada na escada,sim,2025-03-19,Técnico acionado e reparo feito,Manutenção,Vazamento e infiltração,Manutenção
+139,2025-03-18,09:52,Portaria,Portaria,portaria,Encomenda entregue na unidade errada,não,,,Encomendas e portaria,Encomendas e portaria,Encomendas e portaria
+140,2025-03-19,19:34,Morador,Garagem,garagem,Moto ocupando duas vagas,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+141,2025-03-20,13:11,Morador,Portaria,manutenção,Lâmpada queimada na escada,sim,2025-03-24,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+142,2025-03-22,20:32,Portaria,Unidade (6º andar),obra fora de horário,Uso do salão sem reserva,sim,2025-04-26,Advertência conforme o regimento,Convivência e regras,Convivência e regras,Convivência e regras
+143,2025-03-22,21:28,Portaria,Escadas,Manutencao,Luz dos pilotis apagada,sim,2025-03-29,Técnico acionado e reparo feito,Manutenção,Vazamento e infiltração,Manutenção
+144,2025-03-23,18:05,Portaria,Telhado e caixa d'água,goteira,Infiltração no teto do banheiro de unidade do 6º andar (apto 426),sim,2025-03-28,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+145,2025-03-24,06:55,Portaria,Unidade (3º andar),infiltracao,Infiltração no teto do banheiro de unidade do 3º andar,sim,2025-03-30,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+146,2025-03-24,13:28,Síndico,Unidade (6º andar),animal,Latidos constantes,não,,,Animais,Animais,Animais
+147,2025-03-24,15:14,Zeladoria,Portaria,entrega extraviada,Encomenda entregue na unidade errada,não,,,Encomendas e portaria,Encomendas e portaria,Encomendas e portaria
+148,2025-03-24,22:39,Morador,Unidade (2º andar),festa,Barulho de arrastar móveis,não,,,Convivência e regras,Barulho,Barulho
+149,2025-03-26,14:48,Morador,Pilotis,cachorro,Fezes de animal no elevador,não,,,Animais,Animais,Animais
+150,2025-03-26,17:50,Portaria,Portaria,segurança,Câmera da garagem desligada,não,,,Segurança e acesso,Segurança e acesso,Segurança e acesso
+151,2025-03-27,09:56,Portaria,Portaria,segurança,Pessoa estranha no prédio,não,,,Segurança e acesso,Segurança e acesso,Segurança e acesso
+152,2025-03-28,,Morador,Unidade (6º andar),regimento,Pessoa fumando no hall,não,,,Barulho,Convivência e regras,Convivência e regras
+153,2025-03-28,14:35,Portaria,Garagem,infiltracao,Infiltração no teto do banheiro de unidade do 4º andar,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+154,2025-03-29,10:43,Portaria,Escadas,infiltração,Mancha de umidade na parede,sim,2025-04-04,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+155,2025-03-29,18:22,Portaria,Portão,lâmpada queimada,Luz dos pilotis apagada,não,,,Manutenção,Manutenção,Manutenção
+156,2025-03-30,15:42,Portaria,Escadas,Manutencao,Luz dos pilotis apagada novamente,não,,,Manutenção,Manutenção,Manutenção
+157,2025-04-01,10:42,Portaria,Lixeira,Lixo,Lixo deixado fora da lixeira,sim,2025-04-05,Zeladoria limpou e afixou aviso,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+158,2025-04-01,23:49,Morador,Salão de festas,Barulho,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+159,2025-04-03,11:57,Portaria,Escadas,,[ilegível],não,,,Não identificada,Não identificada,Não identificada
+160,2025-04-04,17:50,Morador,Unidade (2º andar),vazamento,Infiltração no teto do banheiro de unidade do 2º andar novamente,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+161,2025-04-04,19:18,Portaria,Unidade (2º andar),música alta,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+162,2025-04-06,02:45,Portaria,Unidade (3º andar),festa,Barulho de arrastar móveis,não,,,Convivência e regras,Barulho,Barulho
+163,2025-04-06,08:54,Morador,Portão,lâmpada queimada,Luz dos pilotis apagada,não,,,Manutenção,Manutenção,Manutenção
+164,2025-04-07,15:09,Síndico,Garagem,vaga,Carro de visitante na garagem,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+165,2025-04-10,11:57,Morador,Garagem,vaga,Carro estacionado em vaga de outro morador,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+166,2025-04-10,14:00,Portaria,Elevador,interfone,Luz dos pilotis apagada,sim,2025-04-12,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+167,2025-04-11,07:44,Morador,Unidade (4º andar),infiltracao,Vazamento na garagem,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+168,2025-04-12,02:22,Portaria,Unidade (5º andar),Barulho,Som alto vindo de unidade do 5º andar,não,,,Barulho,Barulho,Barulho
+169,2025-04-12,14:51,Portaria,Unidade (3º andar),infiltracao,Infiltração no teto do banheiro de unidade do 3º andar novamente,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+170,2025-04-15,10:43,Portaria,Portão,manutenção,Luz dos pilotis apagada,sim,2025-04-19,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+171,2025-04-17,11:08,Portaria,Pilotis,cachorro,Cachorro sem coleira nos pilotis,não,,,Animais,Animais,Animais
+172,2025-04-17,11:08,Morador,Pilotis,cachorro,Cachorro sem coleira nos pilotis,não,,,Animais,Convivência e regras,Animais
+173,2025-04-20,03:36,Morador,Salão de festas,música alta,Música alta em unidade do 3º andar,não,,,Barulho,Barulho,Barulho
+174,2025-04-21,08:09,Morador,Salão de festas,música alta,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+175,2025-04-22,07:59,Morador,Unidade (3º andar),,[ilegível],não,,,Não identificada,Não identificada,Não identificada
+176,2025-04-23,12:47,Zeladoria,Pilotis,manutenção,Interfone sem funcionar,sim,,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+177,2025-04-24,09:01,Portaria,Garagem,Garagem,Carro de visitante na garagem,sim,2025-05-06,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+178,2025-04-24,11:44,Portaria,Portão,estranho no prédio,Portão encontrado aberto,não,,,Segurança e acesso,Segurança e acesso,Segurança e acesso
+179,2025-04-24,19:36,Portaria,Portão,elevador parado,Portão travando,sim,2025-04-29,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+180,2025-04-24,19:49,Morador,Salão de festas,convivência,Bicicleta no corredor,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+181,2025-04-26,03:55,Morador,Área de lazer,festa,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+182,2025-04-26,13:03,Portaria,Escadas,,[ilegível],não,,,Não identificada,Não identificada,Não identificada
+183,2025-04-28,13:31,Zeladoria,Unidade (1º andar),convivência,Pessoa fumando no hall,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+184,2025-04-28,16:15,Portaria,Garagem,Vazamento,Água escorrendo da caixa d'água,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+185,2025-04-28,22:04,Portaria,Unidade (1º andar),barulho,Som alto vindo de unidade do 1º andar,não,,,Barulho,Barulho,Barulho
+186,2025-04-29,,Morador,Lixeira,sujeira,Entulho nos pilotis,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+187,2025-05-01,18:40,Morador,Escadas,interfone,Interfone sem funcionar,sim,2025-05-02,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+188,2025-05-02,15:10,Portaria,Elevador,interfone,Luz dos pilotis apagada novamente,não,,,Manutenção,Manutenção,Manutenção
+189,2025-05-02,16:00,Morador,Unidade (4º andar),infiltracao,Vazamento na garagem novamente,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+190,2025-05-06,13:55,Portaria,Salão de festas,convivência,Uso do salão sem reserva,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+191,2025-05-07,20:33,Portaria,Elevador,animal,Fezes de animal no elevador,não,,,Animais,Animais,Animais
+192,2025-05-08,16:07,Portaria,Portão,manutenção,Luz dos pilotis apagada novamente,não,,,Manutenção,Vazamento e infiltração,Manutenção
+193,2025-05-08,22:44,Portaria,Unidade (1º andar),BARULHO,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+194,2025-05-09,11:24,Portaria,Portão,segurança,Portão encontrado aberto,não,,,Segurança e acesso,Segurança e acesso,Segurança e acesso
+195,2025-05-11,08:34,Portaria,Salão de festas,convivência,Uso do salão sem reserva,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+196,2025-05-11,16:12,Zeladoria,Portaria,entrega extraviada,Encomenda entregue na unidade errada,não,,,Encomendas e portaria,Encomendas e portaria,Encomendas e portaria
+197,2025-05-12,18:32,Zeladoria,Telhado e caixa d'água,vazamento,Água escorrendo da caixa d'água,sim,2025-05-15,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+198,2025-05-13,21:06,Portaria,Pilotis,Animais,Cachorro sem coleira nos pilotis,sim,2025-05-14,Tutor orientado sobre o regimento,Animais,Animais,Animais
+199,2025-05-14,10:01,Portaria,Garagem,Garagem,Carro estacionado em vaga de outro morador,sim,2025-05-22,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+200,2025-05-16,,Zeladoria,Garagem,garagem,Moto ocupando duas vagas,sim,2025-05-20,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+201,2025-05-18,01:42,Morador,Salão de festas,barulho,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+202,2025-05-18,08:28,Portaria,Portaria,estranho no prédio,Pessoa estranha no prédio,sim,2025-05-19,Portaria orientada,Segurança e acesso,Segurança e acesso,Segurança e acesso
+203,2025-05-19,12:10,Portaria,,garagem,Carro estacionado em vaga de outro morador,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+204,2025-05-20,12:54,Síndico,Garagem,portão aberto,Portão encontrado aberto,sim,2025-05-24,Portaria orientada,Segurança e acesso,Segurança e acesso,Segurança e acesso
+205,2025-05-21,06:44,Morador,Salão de festas,regimento,Uso do salão sem reserva,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+206,2025-05-22,08:27,Morador,Portão,lâmpada queimada,Portão travando,sim,2025-05-30,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+207,2025-05-22,18:15,Zeladoria,Garagem,garagem,Carro estacionado em vaga de outro morador,sim,2025-05-25,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+208,2025-05-23,02:08,Portaria,Unidade (5º andar),Barulho,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+209,2025-05-25,10:16,Portaria,Garagem,garagem,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+210,2025-05-25,10:16,Morador,Garagem,garagem,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+211,2025-05-25,22:24,Portaria,Unidade (1º andar),festa,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+212,2025-05-28,06:23,Portaria,Lixeira,limpeza,Escada suja,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+213,2025-05-29,02:50,Portaria,Unidade (1º andar),música alta,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+214,2025-05-31,13:32,Portaria,Unidade (6º andar),cachorro,Fezes de animal no elevador,não,,,Animais,Animais,Animais
+215,2025-05-31,18:00,Portaria,Garagem,vaga,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+216,2025-06-01,15:19,Zeladoria,Portaria,entrega extraviada,Entrega extraviada,sim,2025-06-04,Encomenda localizada e entregue,Encomendas e portaria,Segurança e acesso,Encomendas e portaria
+217,2025-06-01,15:43,Portaria,Unidade (1º andar),festa,Música alta em unidade do 1º andar,não,,,Barulho,Convivência e regras,Barulho
+218,2025-06-02,11:30,Portaria,Garagem,carro na vaga,Carro estacionado em vaga de outro morador,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+219,2025-06-06,09:44,Portaria,Garagem,garagem,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+220,2025-06-07,15:24,Zeladoria,Pilotis,BARULHO,Gritaria nos pilotis de madrugada,não,,,Barulho,Convivência e regras,Barulho
+221,2025-06-08,02:02,Morador,Unidade (4º andar),,[ilegível],sim,2025-06-15,Morador advertido,Não identificada,Não identificada,Não identificada
+222,2025-06-21,12:53,Morador,Pilotis,manutenção,Interfone sem funcionar,não,,,Manutenção,Manutenção,Manutenção
+223,2025-06-21,17:20,Morador,Pilotis,lixo,Entulho nos pilotis,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+224,2025-06-21,20:02,Portaria,Unidade (3º andar),cachorro,Latidos constantes,não,,,Animais,Animais,Animais
+225,2025-06-22,15:51,Portaria,Garagem,Garagem,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+226,2025-06-25,12:28,Portaria,Garagem,Garagem,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+227,2025-06-27,15:22,Morador,Pilotis,interfone,Interfone sem funcionar,sim,2025-06-30,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+228,2025-06-27,17:40,Zeladoria,Garagem,vaga,Veículo bloqueando a saída,sim,2024-10-15,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+229,2025-06-27,,Portaria,Salão de festas,música alta,Som alto vindo de unidade do 5º andar,não,,,Barulho,Barulho,Barulho
+230,2025-06-27,,Portaria,Salão de festas,Barulho,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+231,2025-06-28,15:26,Portaria,,portão aberto,Pessoa estranha no prédio,sim,2025-07-01,Portaria orientada,Segurança e acesso,Segurança e acesso,Segurança e acesso
+232,2025-06-29,00:59,Portaria,Salão de festas,BARULHO,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+233,2025-06-29,03:15,Portaria,Unidade (4º andar),festa,Barulho de arrastar móveis,não,,,Convivência e regras,Barulho,Barulho
+234,2025-06-29,17:21,Morador,Garagem,garagem,Carro de visitante na garagem,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+235,2025-07-01,13:51,Zeladoria,Escadas,,[ilegível],sim,2025-07-05,Zeladoria limpou e afixou aviso,Não identificada,Não identificada,Não identificada
+236,2025-07-01,22:52,Morador,Salão de festas,festa,Música alta em unidade do 1º andar,não,,,Barulho,Convivência e regras,Barulho
+237,2025-07-04,12:42,Portaria,Unidade (4º andar),festa,Som alto vindo de unidade do 4º andar,não,,,Barulho,Barulho,Barulho
+238,2025-07-08,09:26,Portaria,Salão de festas,barulho,Música alta em unidade do 4º andar,não,,,Barulho,Barulho,Barulho
+239,2025-07-09,14:10,Portaria,Escadas,limpeza,Lixo deixado fora da lixeira,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+240,2025-07-09,15:35,Morador,Pilotis,interfone,Interfone sem funcionar novamente,não,,,Manutenção,Vazamento e infiltração,Manutenção
+241,2025-07-11,14:12,Portaria,,portão aberto,Portão encontrado aberto,sim,2025-07-14,Portaria orientada,Segurança e acesso,Garagem e vagas,Segurança e acesso
+242,2025-07-12,15:22,Portaria,Pilotis,lâmpada queimada,Luz dos pilotis apagada,sim,2025-07-17,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+243,2025-07-13,18:51,Morador,Escadas,Lixo,Lixeira transbordando,sim,2025-07-16,Zeladoria limpou e afixou aviso,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+244,2025-07-15,17:39,Morador,Elevador,Manutencao,Elevador parado,sim,2025-07-24,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+245,2025-07-18,02:12,Portaria,Unidade (5º andar),festa,Música alta em unidade do 5º andar,não,,,Barulho,Barulho,Barulho
+246,2025-07-20,14:33,Síndico,Garagem,carro na vaga,Veículo bloqueando a saída,sim,2025-07-23,Proprietário do veículo notificado,Garagem e vagas,Segurança e acesso,Garagem e vagas
+247,2025-07-20,22:35,Síndico,Pilotis,som alto,Música alta em unidade do 1º andar,sim,2025-07-29,Morador advertido,Barulho,Convivência e regras,Barulho
+248,2025-07-21,06:45,Morador,Portaria,portão aberto,Portão encontrado aberto,não,,,Segurança e acesso,Segurança e acesso,Segurança e acesso
+249,2025-07-21,13:40,Portaria,Garagem,Garagem,Moto ocupando duas vagas,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+250,2025-07-21,14:55,Portaria,Garagem,goteira,Mancha de umidade na parede,sim,2025-07-23,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+251,2025-07-22,,Morador,Garagem,carro na vaga,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+252,2025-07-23,02:51,Morador,Unidade (3º andar),festa,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+253,2025-07-24,10:06,Morador,Elevador,animal,Cachorro sem coleira nos pilotis,não,,,Animais,Animais,Animais
+254,2025-07-25,06:03,Morador,,Garagem,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+255,2025-07-27,12:50,Portaria,Garagem,goteira,Mancha de umidade na parede novamente,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+256,2025-07-28,09:38,Portaria,,Lixo,Entulho nos pilotis,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+257,2025-07-28,22:34,Portaria,Pilotis,barulho,Música alta em unidade do 5º andar,não,,,Barulho,Barulho,Barulho
+258,2025-07-30,02:56,Portaria,Pilotis,festa,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+259,2025-07-30,14:41,Portaria,Pilotis,lâmpada queimada,Luz dos pilotis apagada novamente,não,,,Manutenção,Manutenção,Manutenção
+260,2025-07-31,10:13,Portaria,Elevador,Manutencao,Elevador parado,sim,2025-08-02,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+261,2025-08-02,11:26,Portaria,Pilotis,festa,Som alto vindo de unidade do 5º andar,sim,2025-08-06,Morador advertido,Barulho,Barulho,Barulho
+262,2025-08-02,11:26,Morador,Pilotis,festa,Som alto vindo de unidade do 5º andar,sim,2025-08-06,Morador advertido,Barulho,Barulho,Barulho
+263,2025-08-02,17:38,Morador,Garagem,estranho no prédio,Pessoa estranha no prédio,não,,,Segurança e acesso,Segurança e acesso,Segurança e acesso
+264,2025-08-04,10:29,Portaria,Portaria,encomenda,Encomenda entregue na unidade errada,não,,,Encomendas e portaria,Encomendas e portaria,Encomendas e portaria
+265,2025-08-05,21:14,Portaria,Pilotis,cão sem coleira,Latidos constantes,sim,2025-08-19,Tutor orientado sobre o regimento,Animais,Animais,Animais
+266,2025-08-06,,Portaria,Área de lazer,som alto,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+267,2025-08-07,12:20,Portaria,Área de lazer,cachorro,Latidos constantes,sim,2025-08-13,Tutor orientado sobre o regimento,Animais,Animais,Animais
+268,2025-08-10,09:24,Zeladoria,Unidade (1º andar),música alta,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+269,2025-08-10,14:13,Portaria,Garagem,Garagem,Carro de visitante na garagem,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+270,2025-08-10,14:16,Portaria,Garagem,garagem,Carro estacionado em vaga de outro morador,não,,,Segurança e acesso,Garagem e vagas,Garagem e vagas
+271,2025-08-12,09:04,Morador,Portão,estranho no prédio,Câmera da garagem desligada,sim,2025-08-16,Portaria orientada,Segurança e acesso,Segurança e acesso,Segurança e acesso
+272,2025-08-12,12:11,Portaria,Portão,estranho no prédio,Pessoa estranha no prédio,sim,2025-08-19,Portaria orientada,Segurança e acesso,Segurança e acesso,Segurança e acesso
+273,2025-08-12,14:47,Zeladoria,,cachorro,Latidos constantes,não,,,Animais,Animais,Animais
+274,2025-08-12,14:55,Morador,Unidade (4º andar),obra fora de horário,Bicicleta no corredor,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+275,2025-08-12,16:29,Morador,Elevador,lâmpada queimada,Elevador parado,sim,2025-08-17,Técnico acionado e reparo feito,Vazamento e infiltração,Manutenção,Manutenção
+276,2025-08-14,10:30,Portaria,Lixeira,lixo,Lixo deixado fora da lixeira,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+277,2025-08-15,13:14,Portaria,Elevador,cão sem coleira,Fezes de animal no elevador,não,,,Animais,Animais,Animais
+278,2025-08-17,11:13,Portaria,Garagem,vaga,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+279,2025-08-17,11:23,Portaria,Elevador,Manutencao,Elevador parado novamente,não,,,Manutenção,Manutenção,Manutenção
+280,2025-08-17,,Portaria,Pilotis,regimento,Bicicleta no corredor,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+281,2025-08-18,12:47,Portaria,Pilotis,elevador parado,Luz dos pilotis apagada,sim,2025-08-22,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+282,2025-08-18,13:59,Portaria,Garagem,vaga,Moto ocupando duas vagas,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+283,2025-08-19,15:10,Portaria,Garagem,garagem,Carro de visitante na garagem,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+284,2025-08-20,17:12,Portaria,Pilotis,BARULHO,Som alto vindo de unidade do 4º andar,não,,,Barulho,Barulho,Barulho
+285,2025-08-21,06:47,Portaria,Garagem,Garagem,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+286,2025-08-22,09:56,Portaria,Lixeira,Lixo,Lixeira transbordando,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+287,2025-08-22,14:38,Zeladoria,Unidade (3º andar),regimento,Uso do salão sem reserva,sim,2025-09-03,Advertência conforme o regimento,Convivência e regras,Convivência e regras,Convivência e regras
+288,2025-08-27,13:23,Morador,Garagem,carro na vaga,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+289,2025-08-29,11:29,Morador,Escadas,interfone,Elevador parado,não,,,Manutenção,Vazamento e infiltração,Manutenção
+290,2025-08-29,14:15,Morador,Pilotis,fumando no hall,Uso do salão sem reserva,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+291,2025-08-29,22:01,Morador,Unidade (6º andar),barulho,Som alto vindo de unidade do 6º andar,não,,,Barulho,Barulho,Barulho
+292,2025-08-30,18:14,Síndico,Escadas,lixo,Escada suja,não,,,Convivência e regras,Lixo e limpeza,Lixo e limpeza
+293,2025-08-31,17:29,Morador,Garagem,vaga,Moto ocupando duas vagas,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+294,2025-09-03,18:37,Morador,Unidade (5º andar),infiltração,Vazamento na garagem,sim,2025-09-07,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+295,2025-09-04,11:41,Morador,Elevador,cão sem coleira,Fezes de animal no elevador,não,,,Animais,Animais,Animais
+296,2025-09-07,11:01,Portaria,Garagem,garagem,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+297,2025-09-13,23:01,Morador,Unidade (4º andar),som alto,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+298,2025-09-17,09:25,Portaria,,encomenda,Entrega extraviada,não,,,Encomendas e portaria,Encomendas e portaria,Encomendas e portaria
+299,2025-09-17,13:58,Portaria,Garagem,estranho no prédio,Portão encontrado aberto,não,,,Segurança e acesso,Segurança e acesso,Segurança e acesso
+300,2025-09-18,02:03,Portaria,Unidade (6º andar),Barulho,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+301,2025-09-18,22:15,Portaria,Salão de festas,música alta,Festa no salão após o horário,não,,,Barulho,Convivência e regras,Barulho
+302,2025-09-19,09:52,Portaria,Garagem,Garagem,Moto ocupando duas vagas,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+303,2025-09-20,02:59,Síndico,,Barulho,Música alta em unidade do 1º andar,não,,,Barulho,Barulho,Barulho
+304,2025-09-24,08:19,Portaria,Portaria,portaria,Entrega extraviada,não,,,Encomendas e portaria,Segurança e acesso,Encomendas e portaria
+305,2025-09-24,20:54,Portaria,Salão de festas,obra fora de horário,Uso do salão sem reserva,sim,2025-09-30,Advertência conforme o regimento,Convivência e regras,Convivência e regras,Convivência e regras
+306,2025-09-25,16:39,Morador,Salão de festas,obra fora de horário,Bicicleta no corredor,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+307,2025-09-25,19:09,Portaria,Garagem,garagem,Carro de visitante na garagem,sim,2025-10-07,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+308,2025-09-26,06:35,Portaria,Unidade (2º andar),regimento,Uso do salão sem reserva,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+309,2025-09-28,20:05,Morador,Pilotis,regimento,Obra fora do horário permitido,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+310,2025-10-01,14:36,Portaria,Elevador,interfone,Elevador parado,não,,,Manutenção,Manutenção,Manutenção
+311,2025-10-05,00:23,Zeladoria,Unidade (3º andar),BARULHO,Barulho de arrastar móveis,não,,,Barulho,Convivência e regras,Barulho
+312,2025-10-05,,Zeladoria,Portaria,portaria,Entrega extraviada,sim,2025-10-07,Encomenda localizada e entregue,Segurança e acesso,Encomendas e portaria,Encomendas e portaria
+313,2025-10-05,13:09,Portaria,Elevador,Manutencao,Lâmpada queimada na escada,sim,2025-10-14,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+314,2025-10-05,13:09,Morador,Elevador,Manutencao,Lâmpada queimada na escada,sim,2025-10-14,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+315,2025-10-09,15:00,Zeladoria,Salão de festas,festa,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+316,2025-10-10,23:12,Morador,Pilotis,som alto,Música alta em unidade do 4º andar,não,,,Barulho,Barulho,Barulho
+317,2025-10-11,,Morador,Garagem,estranho no prédio,Portão encontrado aberto,não,,,Segurança e acesso,Garagem e vagas,Segurança e acesso
+318,2025-10-11,18:27,Portaria,Portão,lâmpada queimada,Elevador parado,sim,2025-10-13,Técnico acionado e reparo feito,Manutenção,Vazamento e infiltração,Manutenção
+319,2025-10-11,20:15,Portaria,Pilotis,obra fora de horário,Uso do salão sem reserva,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+320,2025-10-19,11:45,Zeladoria,Portaria,lâmpada queimada,Interfone sem funcionar,sim,2025-10-22,Técnico acionado e reparo feito,Vazamento e infiltração,Manutenção,Manutenção
+321,2025-10-22,07:21,Zeladoria,Unidade (3º andar),convivência,Pessoa fumando no hall,sim,2025-10-29,Advertência conforme o regimento,Convivência e regras,Barulho,Convivência e regras
+322,2025-10-27,09:41,Morador,Portaria,encomenda,Encomenda entregue na unidade errada,não,,,Encomendas e portaria,Encomendas e portaria,Encomendas e portaria
+323,2025-10-30,13:51,Portaria,Portão,portão aberto,Portão encontrado aberto,sim,2025-11-06,Portaria orientada,Segurança e acesso,Segurança e acesso,Segurança e acesso
+324,2025-10-30,15:21,Portaria,Pilotis,Lixo,Lixeira transbordando,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+325,2025-10-31,11:48,Portaria,Portão,lâmpada queimada,Elevador parado novamente,não,,,Manutenção,Manutenção,Manutenção
+326,2025-10-31,11:48,Morador,Portão,lâmpada queimada,Elevador parado novamente,não,,,Manutenção,Manutenção,Manutenção
+327,2025-11-03,13:55,Portaria,Portaria,Manutencao,Lâmpada queimada na escada,sim,2025-11-09,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+328,2025-11-04,03:58,Portaria,Unidade (2º andar),BARULHO,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+329,2025-11-05,12:02,Portaria,Pilotis,Animais,Latidos constantes,não,,,Convivência e regras,Animais,Animais
+330,2025-11-06,,Portaria,Área de lazer,cão sem coleira,Cachorro sem coleira nos pilotis,não,,,Animais,Convivência e regras,Animais
+331,2025-11-10,10:07,Morador,Telhado e caixa d'água,vazamento,Vazamento na garagem (apto 527),não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+332,2025-11-12,16:16,Portaria,Portaria,entrega extraviada,Encomenda entregue na unidade errada,sim,2025-11-13,Encomenda localizada e entregue,Encomendas e portaria,Encomendas e portaria,Encomendas e portaria
+333,2025-11-12,22:13,Portaria,Unidade (5º andar),som alto,Som alto vindo de unidade do 5º andar,não,,,Barulho,Barulho,Barulho
+334,2025-11-13,08:49,Morador,,portão aberto,Pessoa estranha no prédio,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+335,2025-11-13,12:02,Zeladoria,Portaria,lâmpada queimada,Interfone sem funcionar novamente,não,,,Manutenção,Manutenção,Manutenção
+336,2025-11-13,16:11,Morador,,Manutencao,Elevador parado,sim,2025-11-18,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+337,2025-11-16,19:45,Portaria,Lixeira,limpeza,Escada suja,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+338,2025-11-18,15:04,Portaria,Garagem,garagem,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+339,2025-11-18,15:04,Morador,Garagem,garagem,Veículo bloqueando a saída,não,,,Segurança e acesso,Garagem e vagas,Garagem e vagas
+340,2025-11-19,16:13,Morador,Elevador,cachorro,Fezes de animal no elevador,não,,,Animais,Animais,Animais
+341,2025-11-19,,Portaria,Garagem,Garagem,Carro de visitante na garagem,sim,2025-11-25,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+342,2025-11-25,11:33,Portaria,Unidade (4º andar),,[ilegível],sim,2025-11-26,Encanador vistoriou e corrigiu,Não identificada,Não identificada,Não identificada
+343,2025-11-25,18:47,Portaria,Telhado e caixa d'água,vazamento,Mancha de umidade na parede,sim,2025-11-28,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+344,2025-11-26,16:08,Portaria,Garagem,infiltração,Vazamento na garagem,sim,2025-11-28,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+345,2025-11-28,11:51,Zeladoria,Unidade (3º andar),Vazamento,Infiltração no teto do banheiro de unidade do 3º andar,sim,2025-12-05,Encanador vistoriou e corrigiu,Manutenção,Vazamento e infiltração,Vazamento e infiltração
+346,2025-11-30,17:58,Portaria,Portaria,,[ilegível],não,,,Não identificada,Não identificada,Não identificada
+347,2025-12-01,12:32,Morador,Pilotis,obra fora de horário,Uso do salão sem reserva,sim,2025-12-06,Advertência conforme o regimento,Convivência e regras,Convivência e regras,Convivência e regras
+348,2025-12-01,22:29,Portaria,Salão de festas,música alta,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+349,2025-12-04,07:41,Portaria,Unidade (6º andar),convivência,Bicicleta no corredor,sim,2025-12-14,Advertência conforme o regimento,Convivência e regras,Barulho,Convivência e regras
+350,2025-12-04,11:26,Portaria,Área de lazer,obra fora de horário,Pessoa fumando no hall,sim,2025-12-08,Advertência conforme o regimento,Convivência e regras,Convivência e regras,Convivência e regras
+351,2025-12-05,03:45,Portaria,Pilotis,Barulho,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+352,2025-12-06,12:04,Portaria,Pilotis,cão sem coleira,Latidos constantes,não,,,Animais,Animais,Animais
+353,2025-12-06,23:01,Morador,Área de lazer,barulho,Música alta em unidade do 2º andar,não,,,Barulho,Barulho,Barulho
+354,2025-12-09,,Portaria,Portaria,Manutencao,Luz dos pilotis apagada,não,,,Manutenção,Manutenção,Manutenção
+355,2025-12-09,16:17,Morador,Telhado e caixa d'água,Vazamento,Goteira na escada,sim,2025-12-17,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+356,2025-12-11,14:26,Morador,Unidade (2º andar),Animais,Latidos constantes,não,,,Animais,Convivência e regras,Animais
+357,2025-12-11,14:50,Morador,Elevador,cachorro,Latidos constantes,não,,,Animais,Animais,Animais
+358,2025-12-11,17:44,Morador,Pilotis,fumando no hall,Uso do salão sem reserva,não,,,Barulho,Barulho,Barulho
+359,2025-12-12,,Morador,Unidade (1º andar),vazamento,Goteira na escada,sim,2025-12-14,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+360,2025-12-13,15:39,Zeladoria,Elevador,lâmpada queimada,Lâmpada queimada na escada,sim,2025-12-17,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+361,2025-12-14,18:56,Morador,Salão de festas,fumando no hall,Bicicleta no corredor,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+362,2025-12-15,13:47,Portaria,Escadas,limpeza,Entulho nos pilotis,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+363,2025-12-15,19:19,Portaria,Pilotis,regimento,Pessoa fumando no hall,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+364,2025-12-16,20:23,Morador,Área de lazer,Animais,Latidos constantes,não,,,Convivência e regras,Animais,Animais
+365,2025-12-17,12:28,Morador,Unidade (2º andar),infiltracao,Infiltração no teto do banheiro de unidade do 2º andar,sim,2025-12-23,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+366,2025-12-18,09:00,Morador,Garagem,Garagem,Moto ocupando duas vagas,não,,,Garagem e vagas,Segurança e acesso,Garagem e vagas
+367,2025-12-18,12:30,Portaria,Garagem,garagem,Carro estacionado em vaga de outro morador,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+368,2025-12-19,12:35,Morador,Escadas,goteira,Goteira na escada,sim,2026-01-02,Encanador vistoriou e corrigiu,Vazamento e infiltração,Manutenção,Vazamento e infiltração
+369,2025-12-19,23:50,Portaria,Salão de festas,som alto,Som alto vindo de unidade do 6º andar,não,,,Barulho,Barulho,Barulho
+370,2025-12-21,14:03,Morador,Pilotis,cão sem coleira,Fezes de animal no elevador,não,,,Animais,Animais,Animais
+371,2025-12-23,22:52,Portaria,Pilotis,obra fora de horário,Pessoa fumando no hall,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+372,2025-12-25,03:25,Morador,Pilotis,som alto,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+373,2025-12-27,11:52,Portaria,Garagem,vaga,Carro de visitante na garagem,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+374,2025-12-28,13:05,Portaria,Unidade (2º andar),festa,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+375,2025-12-29,00:17,Morador,Unidade (6º andar),Barulho,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+376,2025-12-29,22:41,Portaria,Pilotis,festa,Música alta em unidade do 3º andar,não,,,Barulho,Barulho,Barulho
+377,2026-01-01,16:51,Síndico,Pilotis,limpeza,Entulho nos pilotis,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+378,2026-01-02,12:34,Zeladoria,Escadas,limpeza,Lixeira transbordando,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+379,2026-01-02,12:47,Portaria,Pilotis,Manutencao,Portão travando,não,,,Manutenção,Vazamento e infiltração,Manutenção
+380,2026-01-04,21:45,Morador,Pilotis,regimento,Obra fora do horário permitido,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+381,2026-01-04,,Morador,Pilotis,Barulho,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+382,2026-01-06,,Morador,Telhado e caixa d'água,Vazamento,Goteira na escada novamente,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+383,2026-01-08,08:20,Portaria,Portaria,encomenda,Encomenda entregue na unidade errada,sim,2026-01-09,Encomenda localizada e entregue,Encomendas e portaria,Encomendas e portaria,Encomendas e portaria
+384,2026-01-09,02:03,Portaria,Unidade (2º andar),barulho,Som alto vindo de unidade do 2º andar,não,,,Barulho,Barulho,Barulho
+385,2026-01-09,,Zeladoria,Portão,Seguranca,Pessoa estranha no prédio,não,,,Segurança e acesso,Segurança e acesso,Segurança e acesso
+386,2026-01-09,,Portaria,Lixeira,sujeira,Lixeira transbordando,sim,2026-01-15,Zeladoria limpou e afixou aviso,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+387,2026-01-09,17:05,Morador,Pilotis,animal,Fezes de animal no elevador,não,,,Animais,Animais,Animais
+388,2026-01-10,09:42,Morador,Portão,estranho no prédio,Pessoa estranha no prédio,sim,2026-01-11,Portaria orientada,Segurança e acesso,Segurança e acesso,Segurança e acesso
+389,2026-01-10,14:08,Portaria,,goteira,Vazamento na garagem,sim,2026-01-14,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+390,2026-01-10,15:17,Portaria,Lixeira,sujeira,Lixeira transbordando,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+391,2026-01-12,12:22,Morador,,Lixo,Lixeira transbordando,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+392,2026-01-15,12:40,Portaria,,goteira,Goteira na escada,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+393,2026-01-16,09:08,Portaria,Portão,segurança,Pessoa estranha no prédio,não,,,Segurança e acesso,Segurança e acesso,Segurança e acesso
+394,2026-01-18,14:28,Portaria,Garagem,goteira,Goteira na escada novamente,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+395,2026-01-20,11:52,Morador,Portão,segurança,Câmera da garagem desligada,não,,,Segurança e acesso,Segurança e acesso,Segurança e acesso
+396,2026-01-20,15:30,Morador,Portaria,encomenda,Encomenda entregue na unidade errada,não,,,Encomendas e portaria,Encomendas e portaria,Encomendas e portaria
+397,2026-01-21,16:44,Portaria,Garagem,infiltracao,Infiltração no teto do banheiro de unidade do 3º andar,sim,2026-01-25,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+398,2026-01-22,10:01,Morador,Escadas,sujeira,Lixeira transbordando,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+399,2026-01-23,12:51,Morador,Garagem,,[ilegível],não,,,Não identificada,Não identificada,Não identificada
+400,2026-01-24,23:31,Portaria,Pilotis,BARULHO,Gritaria nos pilotis de madrugada,não,,,Convivência e regras,Barulho,Barulho
+401,2026-01-25,15:05,Morador,Unidade (4º andar),infiltração,Água escorrendo da caixa d'água,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+402,2026-01-27,11:42,Síndico,Unidade (4º andar),barulho,Gritaria nos pilotis de madrugada,não,,,Convivência e regras,Barulho,Barulho
+403,2026-01-28,14:12,Portaria,Unidade (1º andar),música alta,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+404,2026-01-28,14:12,Morador,Unidade (1º andar),música alta,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+405,2026-01-28,14:29,Morador,Unidade (1º andar),goteira,Goteira na escada,sim,2026-01-30,Encanador vistoriou e corrigiu,Manutenção,Vazamento e infiltração,Vazamento e infiltração
+406,2026-01-28,22:12,Portaria,Salão de festas,Barulho,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+407,2026-01-29,10:19,Morador,Unidade (4º andar),infiltração,Água escorrendo da caixa d'água novamente,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+408,2026-02-01,01:38,Portaria,Área de lazer,Barulho,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+409,2026-02-01,09:11,Portaria,Escadas,lixo,Lixeira transbordando,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+410,2026-02-01,17:15,Portaria,Escadas,infiltracao,Água escorrendo da caixa d'água,sim,2026-02-02,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+411,2026-02-01,22:20,Portaria,Unidade (2º andar),barulho,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+412,2026-02-03,21:15,Portaria,Elevador,animal,Fezes de animal no elevador,não,,,Animais,Animais,Animais
+413,2026-02-04,03:48,Morador,Unidade (5º andar),música alta,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+414,2026-02-04,10:48,Morador,Pilotis,lâmpada queimada,Interfone sem funcionar,sim,2026-02-07,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+415,2026-02-07,02:27,Morador,Salão de festas,Barulho,Música alta em unidade do 3º andar,não,,,Barulho,Barulho,Barulho
+416,2026-02-09,09:45,Morador,Portaria,lâmpada queimada,Portão travando,sim,2026-02-11,Técnico acionado e reparo feito,Vazamento e infiltração,Manutenção,Manutenção
+417,2026-02-10,11:18,Morador,Lixeira,sujeira,Escada suja,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+418,2026-02-11,10:31,Zeladoria,Telhado e caixa d'água,infiltracao,Infiltração no teto do banheiro de unidade do 2º andar,sim,2026-02-12,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+419,2026-02-11,13:51,Portaria,Unidade (5º andar),convivência,Pessoa fumando no hall,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+420,2026-02-12,00:47,Portaria,Unidade (1º andar),som alto,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+421,2026-02-12,12:47,Portaria,Garagem,goteira,Infiltração no teto do banheiro de unidade do 3º andar,sim,2026-02-13,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+422,2026-02-15,17:38,Zeladoria,Unidade (4º andar),infiltração,Goteira na escada,sim,2026-02-17,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+423,2026-02-17,00:59,Síndico,Unidade (4º andar),,[ilegível],não,,,Não identificada,Não identificada,Não identificada
+424,2026-02-17,00:59,Portaria,Unidade (4º andar),,[ilegível],não,,,Não identificada,Não identificada,Não identificada
+425,2026-02-17,12:14,Portaria,Escadas,,[ilegível],não,,,Não identificada,Não identificada,Não identificada
+426,2026-02-18,16:07,Zeladoria,Escadas,Manutencao,Portão travando,não,,,Manutenção,Manutenção,Manutenção
+427,2026-02-19,02:36,Portaria,Unidade (6º andar),música alta,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+428,2026-02-19,12:50,Zeladoria,Garagem,garagem,Carro de visitante na garagem,sim,2026-03-19,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+429,2026-02-20,01:26,Morador,Unidade (3º andar),Barulho,Som alto vindo de unidade do 3º andar,não,,,Barulho,Barulho,Barulho
+430,2026-02-20,10:41,Portaria,Escadas,Vazamento,Vazamento na garagem,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+431,2026-02-22,14:46,Portaria,Telhado e caixa d'água,goteira,Vazamento na garagem,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+432,2026-02-22,15:30,Morador,Escadas,Vazamento,Goteira na escada,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+433,2026-02-23,14:31,Portaria,Garagem,garagem,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+434,2026-02-26,08:41,Portaria,Garagem,carro na vaga,Carro de visitante na garagem,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+435,2026-02-26,12:48,Portaria,Telhado e caixa d'água,goteira,Vazamento na garagem novamente,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+436,2026-02-27,16:29,Portaria,Escadas,Vazamento,Vazamento na garagem novamente,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+437,2026-02-28,02:54,Portaria,Salão de festas,música alta,Som alto vindo de unidade do 6º andar,não,,,Barulho,Barulho,Barulho
+438,2026-02-28,09:15,Morador,Garagem,carro na vaga,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+439,2026-02-28,,Portaria,Pilotis,cão sem coleira,Latidos constantes,não,,,Animais,Animais,Animais
+440,2026-02-28,18:31,Portaria,Unidade (5º andar),BARULHO,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+441,2026-03-01,00:31,Zeladoria,Unidade (4º andar),,[ilegível],não,,,Não identificada,Não identificada,Não identificada
+442,2026-03-03,17:37,Zeladoria,Pilotis,interfone,Elevador parado,sim,2026-03-14,Técnico acionado e reparo feito,Vazamento e infiltração,Manutenção,Manutenção
+443,2026-03-04,02:59,Portaria,Unidade (3º andar),BARULHO,Música alta em unidade do 3º andar,não,,,Barulho,Barulho,Barulho
+444,2026-03-04,09:30,Morador,Portão,estranho no prédio,Câmera da garagem desligada,sim,2026-03-07,Portaria orientada,Segurança e acesso,Segurança e acesso,Segurança e acesso
+445,2026-03-04,14:29,Portaria,Pilotis,convivência,Obra fora do horário permitido,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+446,2026-03-05,16:23,Morador,,Vazamento,Infiltração no teto do banheiro de unidade do 4º andar,sim,2026-03-11,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+447,2026-03-05,22:35,Morador,Unidade (2º andar),,[ilegível],não,,,Não identificada,Não identificada,Não identificada
+448,2026-03-06,13:12,Morador,Portaria,lâmpada queimada,Portão travando novamente,não,,,Manutenção,Manutenção,Manutenção
+449,2026-03-06,19:30,Portaria,Salão de festas,fumando no hall,Bicicleta no corredor,sim,2026-03-25,Advertência conforme o regimento,Convivência e regras,Convivência e regras,Convivência e regras
+450,2026-03-07,,Zeladoria,Pilotis,interfone,Elevador parado novamente,não,,,Manutenção,Manutenção,Manutenção
+451,2026-03-08,14:28,Portaria,Lixeira,,[ilegível],não,,,Não identificada,Não identificada,Não identificada
+452,2026-03-08,16:26,Portaria,Pilotis,limpeza,Lixo deixado fora da lixeira,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+453,2026-03-09,15:03,Morador,Lixeira,sujeira,Escada suja novamente,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+454,2026-03-12,13:38,Portaria,Garagem,garagem,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+455,2026-03-13,,Portaria,Elevador,Manutencao,Luz dos pilotis apagada,sim,2026-03-16,Técnico acionado e reparo feito,Manutenção,Vazamento e infiltração,Manutenção
+456,2026-03-14,,Portaria,Pilotis,cão sem coleira,Cachorro sem coleira nos pilotis,não,,,Animais,Animais,Animais
+457,2026-03-18,06:20,Morador,Salão de festas,BARULHO,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+458,2026-03-19,11:39,Síndico,Salão de festas,convivência,Pessoa fumando no hall,sim,2026-03-30,Advertência conforme o regimento,Convivência e regras,Convivência e regras,Convivência e regras
+459,2026-03-21,17:14,Morador,Portaria,interfone,Luz dos pilotis apagada,não,,,Manutenção,Manutenção,Manutenção
+460,2026-03-22,22:45,Portaria,Área de lazer,animal,Cachorro sem coleira nos pilotis,não,,,Animais,Animais,Animais
+461,2026-03-23,18:13,Portaria,Pilotis,convivência,Pessoa fumando no hall,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+462,2026-03-24,09:07,Portaria,Garagem,infiltração,Água escorrendo da caixa d'água,sim,2026-03-26,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+463,2026-03-25,23:14,Portaria,Unidade (2º andar),BARULHO,Música alta em unidade do 2º andar,não,,,Barulho,Barulho,Barulho
+464,2026-03-27,07:01,Zeladoria,Escadas,Vazamento,Infiltração no teto do banheiro de unidade do 4º andar,sim,2026-04-12,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+465,2026-03-27,10:19,Morador,Lixeira,Lixo,Lixeira transbordando,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+466,2026-03-27,14:17,Portaria,Garagem,garagem,Veículo bloqueando a saída,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+467,2026-03-28,15:01,Morador,Escadas,elevador parado,Lâmpada queimada na escada,não,,,Manutenção,Manutenção,Manutenção
+468,2026-03-31,12:18,Morador,Lixeira,lixo,Lixeira transbordando,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+469,2026-04-02,10:58,Morador,Escadas,goteira,Água escorrendo da caixa d'água,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+470,2026-04-02,11:46,Portaria,Pilotis,limpeza,Lixo deixado fora da lixeira novamente,não,,,Lixo e limpeza,Convivência e regras,Lixo e limpeza
+471,2026-04-03,10:21,Portaria,Unidade (3º andar),goteira,Água escorrendo da caixa d'água,sim,2026-04-05,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+472,2026-04-03,21:07,Morador,Salão de festas,convivência,Obra fora do horário permitido,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+473,2026-04-04,20:33,Morador,Unidade (5º andar),Barulho,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+474,2026-04-06,16:38,Morador,Telhado e caixa d'água,goteira,Infiltração no teto do banheiro de unidade do 4º andar,não,,,Manutenção,Vazamento e infiltração,Vazamento e infiltração
+475,2026-04-11,03:13,Morador,Unidade (1º andar),festa,Música alta em unidade do 1º andar,não,,,Barulho,Barulho,Barulho
+476,2026-04-13,,Portaria,Garagem,vaga,Moto ocupando duas vagas,sim,2026-04-14,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+477,2026-04-16,10:24,Zeladoria,,interfone,Elevador parado,sim,,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+478,2026-04-16,22:02,Portaria,Pilotis,obra fora de horário,Obra fora do horário permitido,sim,2026-04-22,Advertência conforme o regimento,Convivência e regras,Convivência e regras,Convivência e regras
+479,2026-04-19,17:14,Morador,Lixeira,Lixo,Escada suja,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+480,2026-04-19,20:00,Portaria,Escadas,sujeira,Lixeira transbordando,sim,2026-04-24,Zeladoria limpou e afixou aviso,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+481,2026-04-20,11:27,Portaria,Unidade (3º andar),infiltração,Água escorrendo da caixa d'água,sim,2026-04-22,Encanador vistoriou e corrigiu,Manutenção,Vazamento e infiltração,Vazamento e infiltração
+482,2026-04-21,15:46,Portaria,Garagem,vazamento,Água escorrendo da caixa d'água,sim,2024-10-15,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+483,2026-04-21,19:20,Portaria,Elevador,cão sem coleira,Cachorro sem coleira nos pilotis,não,,,Convivência e regras,Animais,Animais
+484,2026-04-22,01:31,Portaria,Pilotis,barulho,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+485,2026-04-22,09:03,Portaria,Garagem,infiltracao,Goteira na escada,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+486,2026-04-22,23:33,Portaria,Unidade (3º andar),barulho,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+487,2026-04-23,13:23,Morador,Escadas,goteira,Vazamento na garagem,sim,2026-04-28,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+488,2026-04-23,22:33,Portaria,Unidade (5º andar),Barulho,Gritaria nos pilotis de madrugada,não,,,Barulho,Convivência e regras,Barulho
+489,2026-04-24,02:02,Portaria,Salão de festas,Barulho,Barulho de arrastar móveis,não,,,Barulho,Convivência e regras,Barulho
+490,2026-04-24,,Portaria,Garagem,garagem,Veículo bloqueando a saída,sim,2026-05-04,Proprietário do veículo notificado,Garagem e vagas,Segurança e acesso,Garagem e vagas
+491,2026-04-24,12:31,Portaria,Elevador,cachorro,Cachorro sem coleira nos pilotis,não,,,Animais,Animais,Animais
+492,2026-04-24,14:33,Portaria,Garagem,infiltração,Mancha de umidade na parede,sim,2026-04-29,Encanador vistoriou e corrigiu,Manutenção,Vazamento e infiltração,Vazamento e infiltração
+493,2026-04-25,12:35,Morador,Garagem,garagem,Carro estacionado em vaga de outro morador,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+494,2026-04-25,20:09,Morador,Elevador,manutenção,Luz dos pilotis apagada,sim,2026-05-02,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+495,2026-04-26,,Morador,Lixeira,lixo,Lixeira transbordando novamente,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+496,2026-05-01,22:07,Morador,Área de lazer,Animais,Cachorro sem coleira nos pilotis,não,,,Animais,Animais,Animais
+497,2026-05-02,02:39,Portaria,Pilotis,música alta,Música alta em unidade do 4º andar,não,,,Barulho,Barulho,Barulho
+498,2026-05-06,19:13,Morador,Garagem,carro na vaga,Carro de visitante na garagem,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+499,2026-05-10,11:23,Portaria,Garagem,carro na vaga,Carro de visitante na garagem,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+500,2026-05-15,03:53,Morador,Pilotis,Barulho,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+501,2026-05-16,17:09,Portaria,Área de lazer,BARULHO,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+502,2026-05-16,17:09,Morador,Área de lazer,BARULHO,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+503,2026-05-17,01:11,Morador,Unidade (1º andar),som alto,Barulho de arrastar móveis,não,,,Barulho,Convivência e regras,Barulho
+504,2026-05-17,23:39,Portaria,Salão de festas,BARULHO,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+505,2026-05-19,10:09,Zeladoria,Portaria,portaria,Encomenda entregue na unidade errada,sim,2026-05-20,Encomenda localizada e entregue,Encomendas e portaria,Encomendas e portaria,Encomendas e portaria
+506,2026-05-19,11:44,Morador,Unidade (6º andar),regimento,Pessoa fumando no hall,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+507,2026-05-20,12:04,Portaria,Garagem,garagem,Carro de visitante na garagem,sim,2026-05-23,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+508,2026-05-21,07:13,Zeladoria,Pilotis,interfone,Portão travando,não,,,Vazamento e infiltração,Manutenção,Manutenção
+509,2026-05-21,09:21,Portaria,Escadas,Lixo,Escada suja,sim,2026-05-22,Zeladoria limpou e afixou aviso,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+510,2026-05-23,11:46,Morador,Escadas,interfone,Portão travando,sim,2026-05-26,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+511,2026-05-26,21:57,Morador,Pilotis,animal,Fezes de animal no elevador,não,,,Animais,Animais,Animais
+512,2026-05-27,11:59,Portaria,Garagem,carro na vaga,Carro estacionado em vaga de outro morador,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+513,2026-05-27,20:06,Portaria,Lixeira,lixo,Lixo deixado fora da lixeira,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+514,2026-05-27,23:53,Zeladoria,Unidade (4º andar),música alta,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+515,2026-05-28,16:32,Morador,Portaria,portaria,Encomenda entregue na unidade errada,sim,2026-06-01,Encomenda localizada e entregue,Encomendas e portaria,Encomendas e portaria,Encomendas e portaria
+516,2026-05-29,01:58,Portaria,Unidade (2º andar),festa,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+517,2026-06-01,10:54,Síndico,Garagem,carro na vaga,Veículo bloqueando a saída,sim,2024-10-15,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+518,2026-06-01,14:11,Zeladoria,Pilotis,,[ilegível],não,,,Não identificada,Não identificada,Não identificada
+519,2026-06-03,,Portaria,Pilotis,som alto,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+520,2026-06-04,06:58,Morador,Garagem,Garagem,Carro de visitante na garagem,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+521,2026-06-05,02:30,Portaria,Unidade (5º andar),BARULHO,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+522,2026-06-07,15:58,Portaria,Portaria,manutenção,Interfone sem funcionar (apto 244),não,,,Manutenção,Manutenção,Manutenção
+523,2026-06-07,16:37,Portaria,Pilotis,obra fora de horário,Uso do salão sem reserva,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+524,2026-06-07,18:25,Portaria,Garagem,segurança,Portão encontrado aberto,sim,2026-06-08,Portaria orientada,Segurança e acesso,Segurança e acesso,Segurança e acesso
+525,2026-06-09,06:05,Portaria,Área de lazer,convivência,Obra fora do horário permitido,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+526,2026-06-14,11:44,Portaria,Unidade (3º andar),festa,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+527,2026-06-15,09:11,Morador,Garagem,carro na vaga,Carro estacionado em vaga de outro morador,sim,2026-06-21,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+528,2026-06-16,,Morador,Lixeira,sujeira,Lixeira transbordando,sim,2026-06-18,Zeladoria limpou e afixou aviso,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+529,2026-06-17,03:44,Síndico,Pilotis,BARULHO,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+530,2026-06-18,09:19,Portaria,Portaria,manutenção,Interfone sem funcionar novamente,não,,,Manutenção,Manutenção,Manutenção
+531,2026-06-18,23:55,Portaria,Unidade (3º andar),barulho,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+532,2026-06-20,16:07,Portaria,Portaria,entrega extraviada,Encomenda entregue na unidade errada,sim,2026-06-23,Encomenda localizada e entregue,Encomendas e portaria,Encomendas e portaria,Encomendas e portaria
+533,2026-06-21,,Portaria,Unidade (6º andar),música alta,Música alta em unidade do 6º andar,sim,2026-06-24,Morador advertido,Barulho,Barulho,Barulho
+534,2026-06-24,02:18,Portaria,Unidade (3º andar),música alta,Som alto vindo de unidade do 3º andar,não,,,Barulho,Barulho,Barulho
+535,2026-06-25,11:48,Morador,Elevador,lâmpada queimada,Elevador parado,sim,2026-07-01,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+536,2026-06-26,14:02,Morador,Garagem,carro na vaga,Veículo bloqueando a saída,sim,2026-07-02,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+537,2026-06-27,15:43,Zeladoria,Garagem,estranho no prédio,Câmera da garagem desligada,sim,2026-07-01,Portaria orientada,Segurança e acesso,Segurança e acesso,Segurança e acesso
+538,2026-06-27,16:11,Síndico,Lixeira,limpeza,Entulho nos pilotis,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+539,2026-06-28,11:45,Zeladoria,Portaria,Manutencao,Luz dos pilotis apagada,não,,,Manutenção,Manutenção,Manutenção
+540,2026-07-02,21:57,Morador,Pilotis,cachorro,Cachorro sem coleira nos pilotis,não,,,Animais,Animais,Animais
+541,2026-07-04,15:29,Portaria,Garagem,garagem,Veículo bloqueando a saída,sim,2026-07-11,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+542,2026-07-05,02:16,Morador,Unidade (5º andar),BARULHO,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+543,2026-07-05,03:45,Portaria,Área de lazer,Barulho,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+544,2026-07-09,11:17,Morador,Escadas,limpeza,Escada suja,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+545,2026-07-09,11:17,Portaria,Escadas,limpeza,Escada suja,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+546,2026-07-09,17:31,Portaria,Salão de festas,festa,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+547,2026-07-12,,Síndico,Pilotis,animal,Latidos constantes,sim,2026-07-25,Tutor orientado sobre o regimento,Convivência e regras,Animais,Animais
+548,2026-07-12,19:23,Zeladoria,Elevador,Animais,Fezes de animal no elevador,não,,,Animais,Animais,Animais
+549,2026-07-12,19:23,Portaria,Elevador,Animais,Fezes de animal no elevador,não,,,Animais,Animais,Animais
+550,2026-07-12,20:57,Portaria,Escadas,lixo,Entulho nos pilotis,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+551,2026-07-13,16:23,Morador,Unidade (6º andar),goteira,Água escorrendo da caixa d'água,sim,2026-07-15,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+552,2026-07-14,22:35,Portaria,Pilotis,Barulho,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+553,2026-07-15,14:01,Portaria,Unidade (5º andar),barulho,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+554,2026-07-16,12:16,Morador,Unidade (1º andar),música alta,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+555,2026-07-16,15:02,Morador,Garagem,carro na vaga,Carro estacionado em vaga de outro morador,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+556,2026-07-16,18:15,Morador,Lixeira,lixo,Lixeira transbordando,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+557,2026-07-16,22:11,Portaria,Elevador,cachorro,Fezes de animal no elevador,não,,,Animais,Convivência e regras,Animais
+558,2026-07-17,14:31,Morador,,BARULHO,Música alta em unidade do 1º andar,não,,,Barulho,Barulho,Barulho
+559,2026-07-18,20:59,Portaria,Portão,Seguranca,Pessoa estranha no prédio,sim,,Portaria orientada,Garagem e vagas,Segurança e acesso,Segurança e acesso
+560,2026-07-22,03:20,Morador,Unidade (3º andar),música alta,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+561,2026-07-22,11:39,Morador,Garagem,,[ilegível],não,,,Não identificada,Não identificada,Não identificada
+562,2026-07-22,19:15,Morador,Unidade (1º andar),infiltracao,Vazamento na garagem,sim,2026-07-25,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+563,2026-07-22,19:15,Portaria,Unidade (1º andar),infiltracao,Vazamento na garagem,sim,2026-07-25,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+564,2026-07-23,,Portaria,Unidade (4º andar),Barulho,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+565,2026-07-25,16:28,Síndico,Portaria,Seguranca,Pessoa estranha no prédio,não,,,Garagem e vagas,Segurança e acesso,Segurança e acesso
+566,2026-07-26,15:26,Portaria,Unidade (1º andar),regimento,Uso do salão sem reserva,sim,2026-07-30,Advertência conforme o regimento,Convivência e regras,Convivência e regras,Convivência e regras
+567,2026-07-27,,Portaria,Portaria,entrega extraviada,Encomenda entregue na unidade errada,não,,,Encomendas e portaria,Encomendas e portaria,Encomendas e portaria
+568,2026-07-29,10:16,Zeladoria,Garagem,garagem,Carro estacionado em vaga de outro morador,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+569,2026-07-29,16:03,Portaria,Portão,portão aberto,Câmera da garagem desligada,não,,,Segurança e acesso,Segurança e acesso,Segurança e acesso
+570,2026-07-31,22:41,Zeladoria,Salão de festas,festa,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+571,2026-08-02,00:34,Portaria,Salão de festas,barulho,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+572,2026-08-02,13:47,Morador,Elevador,elevador parado,Portão travando,sim,2026-08-08,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+573,2026-08-02,14:17,Portaria,Portão,Manutencao,Elevador parado,sim,2026-08-12,Técnico acionado e reparo feito,Manutenção,Vazamento e infiltração,Manutenção
+574,2026-08-03,15:55,Portaria,Garagem,vazamento,Água escorrendo da caixa d'água,sim,2024-10-15,Encanador vistoriou e corrigiu,Vazamento e infiltração,Manutenção,Vazamento e infiltração
+575,2026-08-04,15:06,Portaria,Garagem,carro na vaga,Veículo bloqueando a saída,sim,2026-08-06,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+576,2026-08-04,23:37,Morador,Pilotis,BARULHO,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+577,2026-08-05,11:12,Portaria,Telhado e caixa d'água,goteira,Mancha de umidade na parede,sim,2026-08-06,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+578,2026-08-07,03:35,Portaria,Unidade (6º andar),música alta,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+579,2026-08-08,10:50,Zeladoria,Salão de festas,convivência,Pessoa fumando no hall,sim,2026-08-10,Advertência conforme o regimento,Convivência e regras,Convivência e regras,Convivência e regras
+580,2026-08-08,16:06,Portaria,Garagem,Garagem,Carro de visitante na garagem,sim,2026-08-16,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+581,2026-08-09,10:20,Portaria,Escadas,Manutencao,Elevador parado,sim,2026-08-14,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+582,2026-08-10,07:19,Morador,Portaria,Seguranca,Pessoa estranha no prédio,não,,,Segurança e acesso,Segurança e acesso,Segurança e acesso
+583,2026-08-11,18:18,Portaria,Unidade (2º andar),barulho,Som alto vindo de unidade do 2º andar,não,,,Barulho,Barulho,Barulho
+584,2026-08-12,14:02,Portaria,,convivência,Bicicleta no corredor,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+585,2026-08-12,14:45,Portaria,Garagem,Garagem,Moto ocupando duas vagas,não,,,Garagem e vagas,Segurança e acesso,Garagem e vagas
+586,2026-08-12,17:01,Zeladoria,Salão de festas,festa,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+587,2026-08-15,15:20,Portaria,Portaria,Manutencao,Portão travando,sim,2026-08-26,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+588,2026-08-15,21:09,Portaria,Garagem,Garagem,Carro de visitante na garagem,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+589,2026-08-17,02:59,Portaria,Salão de festas,Barulho,Música alta em unidade do 4º andar,não,,,Barulho,Barulho,Barulho
+590,2026-08-18,14:41,Portaria,Área de lazer,animal,Cachorro sem coleira nos pilotis,não,,,Animais,Convivência e regras,Animais
+591,2026-08-20,10:04,Morador,,interfone,Portão travando,sim,2026-08-26,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+592,2026-08-20,13:45,Portaria,Portão,estranho no prédio,Câmera da garagem desligada,não,,,Segurança e acesso,Segurança e acesso,Segurança e acesso
+593,2026-08-21,,Portaria,Unidade (2º andar),BARULHO,Música alta em unidade do 2º andar,não,,,Barulho,Convivência e regras,Barulho
+594,2026-08-25,12:54,Portaria,Escadas,Manutencao,Elevador parado,sim,2026-09-02,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+595,2026-08-26,09:42,Morador,Unidade (1º andar),infiltracao,Mancha de umidade na parede,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+596,2026-08-27,11:56,Morador,Garagem,vaga,Moto ocupando duas vagas,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+597,2026-08-27,13:22,Morador,Pilotis,limpeza,Escada suja,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+598,2026-08-30,22:42,Morador,Unidade (1º andar),música alta,Som alto vindo de unidade do 1º andar,não,,,Barulho,Barulho,Barulho
+599,2026-08-30,22:42,Portaria,Unidade (1º andar),música alta,Som alto vindo de unidade do 1º andar,não,,,Barulho,Barulho,Barulho
+600,2026-09-02,10:12,Morador,Elevador,Manutencao,Elevador parado,sim,2026-09-18,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+601,2026-09-02,23:50,Morador,Unidade (1º andar),festa,Música alta em unidade do 1º andar,não,,,Barulho,Barulho,Barulho
+602,2026-09-03,12:03,Portaria,Escadas,Manutencao,Elevador parado novamente,não,,,Manutenção,Manutenção,Manutenção
+603,2026-09-03,,Portaria,Lixeira,Lixo,Lixo deixado fora da lixeira,não,,,Lixo e limpeza,Convivência e regras,Lixo e limpeza
+604,2026-09-05,15:16,Síndico,Pilotis,obra fora de horário,Obra fora do horário permitido,sim,2026-09-14,Advertência conforme o regimento,Convivência e regras,Convivência e regras,Convivência e regras
+605,2026-09-05,,Morador,Pilotis,fumando no hall,Pessoa fumando no hall,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+606,2026-09-08,11:22,Portaria,Escadas,limpeza,Lixeira transbordando,sim,2026-09-10,Zeladoria limpou e afixou aviso,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+607,2026-09-08,15:40,Portaria,Elevador,elevador parado,Interfone sem funcionar,sim,,Técnico acionado e reparo feito,Manutenção,Vazamento e infiltração,Manutenção
+608,2026-09-10,20:44,Morador,Elevador,cão sem coleira,Cachorro sem coleira nos pilotis,não,,,Animais,Animais,Animais
+609,2026-09-11,18:28,Portaria,Lixeira,Lixo,Entulho nos pilotis,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+610,2026-09-11,22:49,Morador,Área de lazer,cão sem coleira,Cachorro sem coleira nos pilotis,não,,,Animais,Animais,Animais
+611,2026-09-12,15:07,Portaria,Área de lazer,cão sem coleira,Fezes de animal no elevador,não,,,Animais,Animais,Animais
+612,2026-09-12,19:07,Síndico,Área de lazer,festa,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+613,2026-09-12,19:29,Morador,Portão,interfone,Elevador parado,sim,2026-09-17,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+614,2026-09-13,14:01,Portaria,Unidade (6º andar),música alta,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+615,2026-09-13,17:00,Portaria,Pilotis,convivência,Bicicleta no corredor,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+616,2026-09-14,13:19,Portaria,Salão de festas,convivência,Bicicleta no corredor,não,,,Convivência e regras,Convivência e regras,Convivência e regras
+617,2026-09-14,,Morador,Unidade (5º andar),infiltração,Água escorrendo da caixa d'água,sim,2026-09-20,Encanador vistoriou e corrigiu,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+618,2026-09-15,12:31,Portaria,Garagem,carro na vaga,Carro estacionado em vaga de outro morador,sim,,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+619,2026-09-17,12:39,Morador,Unidade (5º andar),infiltração,Água escorrendo da caixa d'água novamente,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+620,2026-09-17,,Morador,Unidade (1º andar),infiltracao,Mancha de umidade na parede novamente,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+621,2026-09-18,01:06,Portaria,Unidade (4º andar),Barulho,Barulho de arrastar móveis,não,,,Barulho,Convivência e regras,Barulho
+622,2026-09-19,,Portaria,Elevador,elevador parado,Interfone sem funcionar novamente,não,,,Manutenção,Vazamento e infiltração,Manutenção
+623,2026-09-20,22:32,Portaria,,barulho,Som alto vindo de unidade do 4º andar,não,,,Barulho,Barulho,Barulho
+624,2026-09-22,11:05,Síndico,Área de lazer,regimento,Uso do salão sem reserva,sim,2026-11-01,Advertência conforme o regimento,Convivência e regras,Convivência e regras,Convivência e regras
+625,2026-09-23,11:08,Morador,Elevador,Manutencao,Elevador parado novamente,não,,,Manutenção,Manutenção,Manutenção
+626,2026-09-24,12:21,Portaria,Área de lazer,cachorro,Fezes de animal no elevador,não,,,Animais,Animais,Animais
+627,2026-09-30,12:14,Portaria,Garagem,vaga,Carro de visitante na garagem,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+628,2026-10-03,03:43,Morador,Salão de festas,Barulho,Gritaria nos pilotis de madrugada,não,,,Barulho,Barulho,Barulho
+629,2026-10-04,11:44,Portaria,Portão,segurança,Pessoa estranha no prédio,sim,2026-10-07,Portaria orientada,Segurança e acesso,Segurança e acesso,Segurança e acesso
+630,2026-10-04,14:16,Portaria,,garagem,Carro estacionado em vaga de outro morador,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+631,2026-10-04,17:31,Portaria,Garagem,carro na vaga,Carro de visitante na garagem,sim,2026-10-07,Proprietário do veículo notificado,Garagem e vagas,Garagem e vagas,Garagem e vagas
+632,2026-10-09,10:12,Morador,Escadas,manutenção,Luz dos pilotis apagada,sim,2026-10-10,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+633,2026-10-10,03:11,Portaria,Unidade (6º andar),Barulho,Barulho de arrastar móveis,não,,,Barulho,Barulho,Barulho
+634,2026-10-11,13:22,Portaria,Garagem,carro na vaga,Veículo bloqueando a saída (apto 204),não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+635,2026-10-14,09:08,Portaria,Garagem,carro na vaga,Carro estacionado em vaga de outro morador,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+636,2026-10-16,07:13,Portaria,Telhado e caixa d'água,Vazamento,Mancha de umidade na parede,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+637,2026-10-17,02:37,Portaria,Pilotis,música alta,Música alta em unidade do 2º andar,não,,,Barulho,Barulho,Barulho
+638,2026-10-17,14:59,Portaria,Pilotis,interfone,Luz dos pilotis apagada,sim,2026-10-29,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+639,2026-10-19,00:28,Morador,Unidade (1º andar),barulho,Música alta em unidade do 1º andar,não,,,Convivência e regras,Barulho,Barulho
+640,2026-10-21,12:23,Morador,Elevador,interfone,Elevador parado,sim,2026-10-27,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+641,2026-10-24,07:56,Morador,Portaria,portaria,Demora no interfone,não,,,Encomendas e portaria,Encomendas e portaria,Encomendas e portaria
+642,2026-10-24,13:56,Portaria,Salão de festas,som alto,Festa no salão após o horário,não,,,Barulho,Barulho,Barulho
+643,2026-10-25,10:51,Morador,Pilotis,lixo,Lixeira transbordando,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+644,2026-10-26,13:59,Morador,Lixeira,lixo,Lixeira transbordando,não,,,Lixo e limpeza,Lixo e limpeza,Lixo e limpeza
+645,2026-10-26,15:29,Morador,Escadas,manutenção,Luz dos pilotis apagada novamente,não,,,Manutenção,Manutenção,Manutenção
+646,2026-10-27,11:50,Morador,Pilotis,,[ilegível],sim,,Técnico acionado e reparo feito,Não identificada,Não identificada,Não identificada
+647,2026-10-28,15:49,Portaria,Telhado e caixa d'água,Vazamento,Mancha de umidade na parede novamente,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+648,2026-10-31,14:25,Portaria,Portão,Seguranca,Portão encontrado aberto,não,,,Segurança e acesso,Segurança e acesso,Segurança e acesso
+649,2026-10-31,,Morador,Garagem,Garagem,Moto ocupando duas vagas,não,,,Garagem e vagas,Garagem e vagas,Garagem e vagas
+650,2026-10-31,18:18,Morador,Garagem,infiltracao,Infiltração no teto do banheiro de unidade do 2º andar,não,,,Manutenção,Vazamento e infiltração,Vazamento e infiltração
+651,2026-10-31,20:56,Morador,Unidade (3º andar),infiltracao,Infiltração no teto do banheiro de unidade do 3º andar,não,,,Vazamento e infiltração,Vazamento e infiltração,Vazamento e infiltração
+652,2052-07-25,23:35,Morador,Salão de festas,Barulho,Música alta em unidade do 2º andar,não,,,Barulho,Barulho,Barulho
+653,2052-09-24,16:49,Morador,Portaria,manutenção,Interfone sem funcionar,sim,2025-10-03,Técnico acionado e reparo feito,Manutenção,Manutenção,Manutenção
+654,2062-02-02,13:31,Morador,,segurança,Câmera da garagem desligada,sim,2026-02-04,Portaria orientada,Segurança e acesso,Segurança e acesso,Segurança e acesso
+655,2062-05-16,,Portaria,Pilotis,convivência,Obra fora do horário permitido,não,,,Barulho,Convivência e regras,Convivência e regras

@@ -1,0 +1,25 @@
+id_registro,data,categoria,local,atencao,selo_recorrente,risco_modelo,houve_resposta
+628,2026-10-03,Barulho,Salão de festas,True,False,0.9379612082744583,não
+629,2026-10-04,Segurança e acesso,Portão,False,False,0.3146138725654105,sim
+630,2026-10-04,Garagem e vagas,Não informado,False,False,0.48945393607820736,não
+631,2026-10-04,Garagem e vagas,Garagem,False,True,0.7148749012924168,sim
+632,2026-10-09,Manutenção,Escadas,False,False,0.20548597070565452,sim
+633,2026-10-10,Barulho,Unidade (6º andar),True,True,0.9429760888913316,não
+634,2026-10-11,Garagem e vagas,Garagem,False,True,0.7148749012924168,não
+635,2026-10-14,Garagem e vagas,Garagem,False,True,0.5699265451841792,não
+636,2026-10-16,Vazamento e infiltração,Telhado e caixa d'água,False,False,0.16302432261879463,não
+637,2026-10-17,Barulho,Pilotis,True,False,0.8834050776586465,não
+638,2026-10-17,Manutenção,Pilotis,False,False,0.17193874219058117,sim
+639,2026-10-19,Barulho,Unidade (1º andar),True,False,0.8892007740604391,não
+640,2026-10-21,Manutenção,Elevador,False,True,0.277699310691407,sim
+641,2026-10-24,Encomendas e portaria,Portaria,False,False,0.5031813942051319,não
+642,2026-10-24,Barulho,Salão de festas,True,True,0.8768400923324164,não
+643,2026-10-25,Lixo e limpeza,Pilotis,True,False,0.6422324527332733,não
+644,2026-10-26,Lixo e limpeza,Lixeira,True,False,0.5653635186364968,não
+645,2026-10-26,Manutenção,Escadas,False,True,0.2741966772886125,não
+646,2026-10-27,Não identificada,Pilotis,False,False,0.6002729247456356,sim
+647,2026-10-28,Vazamento e infiltração,Telhado e caixa d'água,False,True,0.32196249415866607,não
+648,2026-10-31,Segurança e acesso,Portão,False,True,0.4262237410022334,não
+650,2026-10-31,Vazamento e infiltração,Garagem,False,False,0.32177679716378554,não
+651,2026-10-31,Vazamento e infiltração,Unidade (3º andar),False,False,0.24152703008851203,não
+649,2026-10-31,Garagem e vagas,Garagem,False,True,0.7396441485919734,não

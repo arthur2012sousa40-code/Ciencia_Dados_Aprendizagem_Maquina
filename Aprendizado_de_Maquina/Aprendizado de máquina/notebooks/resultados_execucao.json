@@ -1,0 +1,410 @@
+{
+  "acuracia_treino": 0.8133333333333334,
+  "acuracia_teste": 0.78,
+  "acuracia_referencia": 0.5933333333333334,
+  "matriz_confusao": [
+    [
+      75,
+      14
+    ],
+    [
+      19,
+      42
+    ]
+  ],
+  "profundidade": 5,
+  "mae": 28.592371891051492,
+  "r2": 0.8774401457921505,
+  "mae_referencia": 84.73054077484917,
+  "sklearn": "1.9.1",
+  "pandas": "3.0.5",
+  "numpy": "2.5.3",
+  "matplotlib": "3.11.2",
+  "python": "3.13.18",
+  "csv_igual_simulacao": true,
+  "tamanhos": {
+    "treino": 450,
+    "teste": 150
+  },
+  "comparacao_profundidade": [
+    {
+      "profundidade": "2",
+      "acuracia_treino_cv": 0.7328,
+      "acuracia_validacao_cv": 0.6844,
+      "desvio_validacao_cv": 0.0425,
+      "distancia": 0.0483
+    },
+    {
+      "profundidade": "3",
+      "acuracia_treino_cv": 0.7678,
+      "acuracia_validacao_cv": 0.7022,
+      "desvio_validacao_cv": 0.0257,
+      "distancia": 0.0656
+    },
+    {
+      "profundidade": "5",
+      "acuracia_treino_cv": 0.8111,
+      "acuracia_validacao_cv": 0.7222,
+      "desvio_validacao_cv": 0.0391,
+      "distancia": 0.0889
+    },
+    {
+      "profundidade": "None",
+      "acuracia_treino_cv": 0.8206,
+      "acuracia_validacao_cv": 0.7111,
+      "desvio_validacao_cv": 0.0477,
+      "distancia": 0.1094
+    }
+  ],
+  "validacao_modelo": {
+    "media": 0.7222222222222223,
+    "desvio": 0.03912625969257558
+  },
+  "sensibilidade": 0.6885245901639344,
+  "precisao": 0.75,
+  "especificidade": 0.8426966292134831,
+  "importancias": {
+    "frequencia_sem4": 0.235,
+    "nota_sem4": 0.6216,
+    "entregas_sem4": 0.1434
+  },
+  "grade_folhas": [
+    {
+      "folha": 5,
+      "profundidade": "2",
+      "treino_cv": 0.7328,
+      "validacao_cv": 0.6844,
+      "desvio": 0.0425,
+      "distancia": 0.0483
+    },
+    {
+      "folha": 5,
+      "profundidade": "3",
+      "treino_cv": 0.7706,
+      "validacao_cv": 0.7,
+      "desvio": 0.0233,
+      "distancia": 0.0706
+    },
+    {
+      "folha": 5,
+      "profundidade": "5",
+      "treino_cv": 0.8261,
+      "validacao_cv": 0.7222,
+      "desvio": 0.0298,
+      "distancia": 0.1039
+    },
+    {
+      "folha": 5,
+      "profundidade": "None",
+      "treino_cv": 0.8678,
+      "validacao_cv": 0.7133,
+      "desvio": 0.0215,
+      "distancia": 0.1544
+    },
+    {
+      "folha": 10,
+      "profundidade": "2",
+      "treino_cv": 0.7328,
+      "validacao_cv": 0.6844,
+      "desvio": 0.0425,
+      "distancia": 0.0483
+    },
+    {
+      "folha": 10,
+      "profundidade": "3",
+      "treino_cv": 0.7678,
+      "validacao_cv": 0.7022,
+      "desvio": 0.0257,
+      "distancia": 0.0656
+    },
+    {
+      "folha": 10,
+      "profundidade": "5",
+      "treino_cv": 0.8111,
+      "validacao_cv": 0.7222,
+      "desvio": 0.0391,
+      "distancia": 0.0889
+    },
+    {
+      "folha": 10,
+      "profundidade": "None",
+      "treino_cv": 0.8206,
+      "validacao_cv": 0.7111,
+      "desvio": 0.0477,
+      "distancia": 0.1094
+    },
+    {
+      "folha": 20,
+      "profundidade": "2",
+      "treino_cv": 0.7328,
+      "validacao_cv": 0.6844,
+      "desvio": 0.0425,
+      "distancia": 0.0483
+    },
+    {
+      "folha": 20,
+      "profundidade": "3",
+      "treino_cv": 0.7656,
+      "validacao_cv": 0.6978,
+      "desvio": 0.0325,
+      "distancia": 0.0678
+    },
+    {
+      "folha": 20,
+      "profundidade": "5",
+      "treino_cv": 0.79,
+      "validacao_cv": 0.7267,
+      "desvio": 0.048,
+      "distancia": 0.0633
+    },
+    {
+      "folha": 20,
+      "profundidade": "None",
+      "treino_cv": 0.79,
+      "validacao_cv": 0.7267,
+      "desvio": 0.048,
+      "distancia": 0.0633
+    },
+    {
+      "folha": 40,
+      "profundidade": "2",
+      "treino_cv": 0.7328,
+      "validacao_cv": 0.6844,
+      "desvio": 0.0425,
+      "distancia": 0.0483
+    },
+    {
+      "folha": 40,
+      "profundidade": "3",
+      "treino_cv": 0.7661,
+      "validacao_cv": 0.7111,
+      "desvio": 0.0351,
+      "distancia": 0.055
+    },
+    {
+      "folha": 40,
+      "profundidade": "5",
+      "treino_cv": 0.7756,
+      "validacao_cv": 0.7289,
+      "desvio": 0.0303,
+      "distancia": 0.0467
+    },
+    {
+      "folha": 40,
+      "profundidade": "None",
+      "treino_cv": 0.7756,
+      "validacao_cv": 0.7289,
+      "desvio": 0.0303,
+      "distancia": 0.0467
+    }
+  ],
+  "ablacao": [
+    {
+      "atributos": "todos",
+      "validacao_cv": 0.7222,
+      "desvio": 0.0391,
+      "treino_cv": 0.8111,
+      "queda": 0.0
+    },
+    {
+      "atributos": "sem frequencia_sem4",
+      "validacao_cv": 0.7156,
+      "desvio": 0.0362,
+      "treino_cv": 0.7789,
+      "queda": -0.0067
+    },
+    {
+      "atributos": "sem nota_sem4",
+      "validacao_cv": 0.6289,
+      "desvio": 0.0475,
+      "treino_cv": 0.7311,
+      "queda": -0.0933
+    },
+    {
+      "atributos": "sem entregas_sem4",
+      "validacao_cv": 0.7022,
+      "desvio": 0.031,
+      "treino_cv": 0.7911,
+      "queda": -0.02
+    }
+  ],
+  "imputacao": [
+    {
+      "imputador": "mediana",
+      "validacao_cv": 0.7222,
+      "desvio": 0.0391,
+      "treino_cv": 0.8111
+    },
+    {
+      "imputador": "média",
+      "validacao_cv": 0.7222,
+      "desvio": 0.0391,
+      "treino_cv": 0.8111
+    },
+    {
+      "imputador": "constante 0",
+      "validacao_cv": 0.7333,
+      "desvio": 0.007,
+      "treino_cv": 0.8117
+    },
+    {
+      "imputador": "mediana + indicador",
+      "validacao_cv": 0.7178,
+      "desvio": 0.0376,
+      "treino_cv": 0.8111
+    }
+  ],
+  "vazamento": {
+    "mediana_treino": 5.146293421163498,
+    "mediana_global": 4.96211576379484,
+    "acuracia_teste_vazada": 0.78
+  },
+  "poda": [
+    {
+      "ccp_alpha": 0.0,
+      "treino_cv": 0.8206,
+      "validacao_cv": 0.7111,
+      "desvio": 0.0477,
+      "folhas_no_treino_completo": 26
+    },
+    {
+      "ccp_alpha": 0.002,
+      "treino_cv": 0.8189,
+      "validacao_cv": 0.7111,
+      "desvio": 0.0502,
+      "folhas_no_treino_completo": 20
+    },
+    {
+      "ccp_alpha": 0.005,
+      "treino_cv": 0.8111,
+      "validacao_cv": 0.7267,
+      "desvio": 0.048,
+      "folhas_no_treino_completo": 11
+    },
+    {
+      "ccp_alpha": 0.01,
+      "treino_cv": 0.79,
+      "validacao_cv": 0.7133,
+      "desvio": 0.0325,
+      "folhas_no_treino_completo": 7
+    },
+    {
+      "ccp_alpha": 0.02,
+      "treino_cv": 0.7478,
+      "validacao_cv": 0.7022,
+      "desvio": 0.0293,
+      "folhas_no_treino_completo": 3
+    },
+    {
+      "ccp_alpha": 0.04,
+      "treino_cv": 0.7033,
+      "validacao_cv": 0.6933,
+      "desvio": 0.0229,
+      "folhas_no_treino_completo": 2
+    }
+  ],
+  "regras": [
+    {
+      "niveis": 1,
+      "regras (folhas)": 2,
+      "validacao_cv": 0.6933,
+      "desvio": 0.0229,
+      "treino_cv": 0.7033
+    },
+    {
+      "niveis": 2,
+      "regras (folhas)": 4,
+      "validacao_cv": 0.6844,
+      "desvio": 0.0425,
+      "treino_cv": 0.7328
+    },
+    {
+      "niveis": 3,
+      "regras (folhas)": 8,
+      "validacao_cv": 0.7022,
+      "desvio": 0.0257,
+      "treino_cv": 0.7678
+    },
+    {
+      "niveis": 5,
+      "regras (folhas)": 21,
+      "validacao_cv": 0.7222,
+      "desvio": 0.0391,
+      "treino_cv": 0.8111
+    }
+  ],
+  "novos": [
+    {
+      "perfil": "roteiro da professora",
+      "frequencia_sem4": 72.0,
+      "nota_sem4": 6.0,
+      "entregas_sem4": 5,
+      "classe_prevista": 0,
+      "estimativa_evasao": 0.342
+    },
+    {
+      "perfil": "frequenta, mas nota baixa",
+      "frequencia_sem4": 95.0,
+      "nota_sem4": 3.0,
+      "entregas_sem4": 2,
+      "classe_prevista": 0,
+      "estimativa_evasao": 0.171
+    },
+    {
+      "perfil": "nota alta, frequência baixa",
+      "frequencia_sem4": 45.0,
+      "nota_sem4": 8.5,
+      "entregas_sem4": 7,
+      "classe_prevista": 0,
+      "estimativa_evasao": 0.0
+    },
+    {
+      "perfil": "nota ausente (imputada)",
+      "frequencia_sem4": 60.0,
+      "nota_sem4": NaN,
+      "entregas_sem4": 4,
+      "classe_prevista": 0,
+      "estimativa_evasao": 0.455
+    }
+  ],
+  "regressao": {
+    "coef": [
+      0.348,
+      2.297
+    ],
+    "intercepto": 37.317264148313654,
+    "r2_referencia": -0.003734513831553654,
+    "residuos": {
+      "media": -1.2835126390243266,
+      "desvio": 35.47256145989073,
+      "min": -87.2383385807131,
+      "max": 64.59405201855753
+    },
+    "ablacao_mae_cv": [
+      {
+        "atributos": "ambos",
+        "MAE_validacao": 28.8923,
+        "desvio": 1.7714
+      },
+      {
+        "atributos": "só usuarios_ativos",
+        "MAE_validacao": 35.9035,
+        "desvio": 3.1919
+      },
+      {
+        "atributos": "só horas_abertura",
+        "MAE_validacao": 83.7284,
+        "desvio": 5.3572
+      },
+      {
+        "atributos": "referência (média)",
+        "MAE_validacao": 87.2237,
+        "desvio": 7.7379
+      }
+    ],
+    "extrapolacao": [
+      3609.07,
+      597.21
+    ]
+  }
+}
